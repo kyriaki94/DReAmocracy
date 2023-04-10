@@ -9,6 +9,8 @@ _input_refData: for database input files
 reference tables with final composite scores for each disease in a .csv format
 
 #weights can be adjusted by the user (sum of weights =1)
+
 #default weights used: trials=0.5,repurposed=0.5
+
 #default weights used: indication=0.2,moa=0.4,pathway=0.4
 
