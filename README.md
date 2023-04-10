@@ -1,4 +1,4 @@
-# Dremocracy
+# DReAmocracy
 DReAmocracy exploits information such as proposed lists of drugs by previous studies and clinical trials and creates a dynamic reference matrix with enhanced resolution. Through a weight-modulated majority voting of the modes of action, initial indications and targeted pathways of the drugs in a well-known repository, Drug Repurposing Hub, it generates  a disease suitability score for each drug from the selected library. As a testbed, we applied this method to a group of neurodegenerative diseases (Alzheimer’s, Parkinson’s, Huntington’s and Multiple Sclerosis). A super-reference table with drug suitability scores is created for all four neurodegenerative diseases.
 
 ## input files:
