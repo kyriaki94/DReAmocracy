@@ -1,0 +1,90 @@
+moa	p_value	Freq	normalised_freq	score
+insulin sensitizer	7.1e-07	5	0.625	0.625
+gamma secretase inhibitor	7.8e-06	5	0.625	0.625
+acetylcholine receptor agonist	0.00195642	5	0.625	0.625
+serotonin receptor antagonist	0.002113649	8	1	1
+beta-secretase inhibitor	0.002345661	2	0.25	0.25
+gamma secretase modulator	0.002345661	2	0.25	0.25
+acetylcholinesterase inhibitor	0.018049622	3	0.375	0.375
+sodium/glucose cotransporter inhibitor	0.01960475	2	0.25	0.25
+antidepressant 	0.020109419	1	0.125	0.125
+astrocyte modulating agent	0.020109419	1	0.125	0.125
+atherogenesis inhibitor	0.020109419	1	0.125	0.125
+BDNF inducer	0.020109419	1	0.125	0.125
+glutamate release inhibitor	0.020109419	1	0.125	0.125
+intermediate conductance potassium channel blocker	0.020109419	1	0.125	0.125
+PET radiotracer	0.020109419	1	0.125	0.125
+pharmacological chaperone	0.020109419	1	0.125	0.125
+HMGCR inhibitor	0.023219287	2	0.25	0.25
+phosphodiesterase inhibitor	0.029070781	5	0.625	0.625
+PPAR receptor agonist	0.030225905	3	0.375	0.375
+dopamine receptor modulator	0.039817363	1	0.125	0.125
+dopamine receptor partial agonist	0.039817363	1	0.125	0.125
+lipoprotein lipase activator	0.039817363	1	0.125	0.125
+norepinephrine transporter inhibitor	0.039817363	1	0.125	0.125
+RAGE receptor antagonist	0.039817363	1	0.125	0.125
+angiotensin receptor antagonist	0.040068712	2	0.25	0.25
+chelating agent	0.054917287	2	0.25	0.25
+beta secretase inhibitor	0.05913179	1	0.125	0.125
+GLP receptor agonist	0.05913179	1	0.125	0.125
+serotonin receptor inverse agonist	0.05913179	1	0.125	0.125
+SIRT activator	0.05913179	1	0.125	0.125
+SRC inhibitor	0.065721264	2	0.25	0.25
+retinoid receptor agonist	0.071367394	2	0.25	0.25
+glucocorticoid receptor antagonist	0.078060499	1	0.125	0.125
+neurotrophic agent	0.078060499	1	0.125	0.125
+adrenergic inhibitor	0.096611139	1	0.125	0.125
+glutamate inhibitor	0.096611139	1	0.125	0.125
+protein synthesis stimulant	0.096611139	1	0.125	0.125
+estrogen receptor agonist	0.114681747	2	0.25	0.25
+cholinergic receptor agonist	0.114791205	1	0.125	0.125
+gonadotropin releasing factor hormone receptor agonist	0.114791205	1	0.125	0.125
+serotonin receptor partial agonist	0.114791205	1	0.125	0.125
+Abl kinase inhibitor	0.132608046	1	0.125	0.125
+mineralocorticoid receptor antagonist	0.132608046	1	0.125	0.125
+serotonin?€“norepinephrine reuptake inhibitor (SNRI)	0.132608046	1	0.125	0.125
+vitamin K antagonist	0.132608046	1	0.125	0.125
+benzodiazepine receptor agonist	0.141768024	2	0.25	0.25
+RNA synthesis inhibitor	0.150068867	1	0.125	0.125
+serotonin reuptake inhibitor	0.150068867	1	0.125	0.125
+nicotinic receptor agonist	0.16718073	1	0.125	0.125
+norepinephrine reuptake inhibitor	0.16718073	1	0.125	0.125
+melatonin receptor agonist	0.200385139	1	0.125	0.125
+selective estrogen receptor modulator (SERM)	0.200385139	1	0.125	0.125
+sigma receptor agonist	0.200385139	1	0.125	0.125
+adrenergic receptor antagonist	0.200520286	4	0.5	0.5
+glutamate receptor modulator	0.216491125	1	0.125	0.125
+nucleoside reverse transcriptase inhibitor	0.23227504	1	0.125	0.125
+cyclooxygenase inhibitor	0.2432472	4	0.5	0.5
+HDAC inhibitor	0.243752929	2	0.25	0.25
+DNA polymerase inhibitor	0.247743276	1	0.125	0.125
+estrogen receptor antagonist	0.247743276	1	0.125	0.125
+anticancer agent	0.262902102	1	0.125	0.125
+Bcr-Abl kinase inhibitor	0.262902102	1	0.125	0.125
+leukotriene receptor antagonist	0.262902102	1	0.125	0.125
+dopamine reuptake inhibitor	0.292315977	1	0.125	0.125
+glycogen synthase kinase inhibitor	0.306582954	1	0.125	0.125
+KIT inhibitor	0.334265929	1	0.125	0.125
+nitric oxide synthase inhibitor	0.386382955	1	0.125	0.125
+adenosine receptor agonist	0.398766382	1	0.125	0.125
+angiotensin converting enzyme inhibitor	0.398766382	1	0.125	0.125
+GABA receptor antagonist	0.398766382	1	0.125	0.125
+p38 MAPK inhibitor	0.422793843	1	0.125	0.125
+serotonin receptor agonist	0.433840751	2	0.25	0.25
+bacterial 30S ribosomal subunit inhibitor	0.44586786	1	0.125	0.125
+PDGFR tyrosine kinase receptor inhibitor	0.457059124	1	0.125	0.125
+NFkB pathway inhibitor	0.478772947	1	0.125	0.125
+glutamate receptor agonist	0.489304351	1	0.125	0.125
+glutamate receptor antagonist	0.506893375	2	0.25	0.25
+adenosine receptor antagonist	0.509737603	1	0.125	0.125
+cytochrome P450 inhibitor	0.509737603	1	0.125	0.125
+tubulin polymerization inhibitor	0.519647783	1	0.125	0.125
+mTOR inhibitor	0.529359081	1	0.125	0.125
+antioxidant	0.53887546	1	0.125	0.125
+dopamine receptor antagonist	0.561978007	2	0.25	0.25
+dopamine receptor agonist	0.592092638	1	0.125	0.125
+glucocorticoid receptor agonist	0.639208094	1	0.125	0.125
+calcium channel blocker	0.646517449	1	0.125	0.125
+histamine receptor antagonist	0.808979555	1	0.125	0.125
+acetylcholine receptor antagonist	0.83459898	1	0.125	0.125
+adrenergic receptor agonist	0.853823258	1	0.125	0.125
