@@ -1,0 +1,43 @@
+moa	p_value	Freq	normalised_freq	count_lists_with_drugs	normalised_count_lists_with_drugs	score
+dopamine receptor antagonist	0.131428141	2	1	2	1	1
+PPAR receptor agonist	0.022115982	2	1	1	0.5	0.7
+topoisomerase inhibitor	0.040312453	2	1	2	1	1
+adrenergic receptor agonist	0.475868677	1	0.5	1	0.5	0.5
+adrenergic receptor antagonist	0.546873224	1	0.5	1	0.5	0.5
+apoptosis stimulant	0.139621924	1	0.5	1	0.5	0.5
+ATPase inhibitor	0.185507733	1	0.5	1	0.5	0.5
+bacterial DNA gyrase inhibitor	0.196599793	1	0.5	1	0.5	0.5
+CDK inhibitor	0.28017369	1	0.5	1	0.5	0.5
+chloride channel blocker	0.046671701	1	0.5	1	0.5	0.5
+cyclooxygenase inhibitor	0.580217561	1	0.5	1	0.5	0.5
+DNA dependent protein kinase inhibitor	0.04013719	1	0.5	1	0.5	0.5
+DNA inhibitor	0.133711322	1	0.5	1	0.5	0.5
+estrogen receptor antagonist	0.091210335	1	0.5	1	0.5	0.5
+FABI inhibitor	0.026936452	1	0.5	1	0.5	0.5
+HDAC inhibitor	0.275209371	1	0.5	1	0.5	0.5
+HSP inhibitor	0.157118019	1	0.5	1	0.5	0.5
+immunostimulant	0.072377323	1	0.5	1	0.5	0.5
+insulin sensitizer	0.066015217	1	0.5	1	0.5	0.5
+leukotriene receptor antagonist	0.097404486	1	0.5	1	0.5	0.5
+microtubule inhibitor	0.097404486	1	0.5	1	0.5	0.5
+mineralocorticoid receptor antagonist	0.046671701	1	0.5	1	0.5	0.5
+monoamine oxidase inhibitor	0.174265905	1	0.5	1	0.5	0.5
+mTOR inhibitor	0.223687458	1	0.5	1	0.5	0.5
+mycolic synthesis inhibitor	0.006801715	1	0.5	1	0.5	0.5
+nucleoside reverse transcriptase inhibitor	0.084974606	1	0.5	1	0.5	0.5
+phosphodiesterase inhibitor	0.446048752	1	0.5	1	0.5	0.5
+PI3K inhibitor	0.364048566	1	0.5	1	0.5	0.5
+PLK inhibitor	0.072377323	1	0.5	1	0.5	0.5
+potassium channel activator	0.121770709	1	0.5	1	0.5	0.5
+prostanoid receptor antagonist	0.168588212	1	0.5	1	0.5	0.5
+protein synthesis inhibitor	0.239509021	1	0.5	1	0.5	0.5
+psychoactive drug	0.026936452	1	0.5	1	0.5	0.5
+RNA synthesis inhibitor	0.053162687	1	0.5	1	0.5	0.5
+serotonin receptor agonist	0.394016125	1	0.5	1	0.5	0.5
+serotonin receptor antagonist	0.546873224	1	0.5	1	0.5	0.5
+serotonin reuptake inhibitor	0.053162687	1	0.5	1	0.5	0.5
+solute carrier family member inhibitor	0.026936452	1	0.5	1	0.5	0.5
+transthyretin amyloid inhibitor	0.006801715	1	0.5	1	0.5	0.5
+TRPV agonist	0.072377323	1	0.5	1	0.5	0.5
+tubulin polymerization inhibitor	0.218342393	1	0.5	1	0.5	0.5
+uricosuric blocker	0.020269647	1	0.5	1	0.5	0.5

@@ -1,0 +1,3893 @@
+drug name	indication
+(r)-(-)-apomorphine	Parkinson's Disease
+17-hydroxyprogesterone-caproate	spontaneous preterm birth
+1-hexadecanol	cosmetic
+2-deoxy-2-([methyl(nitroso)carbamoyl]amino)hexose	pancreatic cancer
+2-deoxy-2-([methyl(nitroso)carbamoyl]amino)hexose	hypoglycemia
+2-hydroxyethyl-salicylate	pain relief
+3-(4-methylbenzylidene)camphor	sunscreen lotion
+4-aminohippuric-acid	renal diagnostic agent
+5-aminolevulinic-acid	glioma
+5-aminolevulinic-acid	actinic keratosis (AK)
+5-fluorouracil	colorectal cancer
+5-fluorouracil	breast cancer
+5-fluorouracil	pancreatic cancer
+5-fluorouracil	gastric adenocarcinoma
+5-hydroxytryptophan	insomnia
+abacavir	human immunodeficiency virus (HIV-1)
+abamectin	gastrointestinal parasites
+abemaciclib	breast cancer
+abiraterone	prostate cancer
+abiraterone-acetate	prostate cancer
+acalabrutinib	mantle cell lymphoma (MCL)
+acamprosate	abstinence from alcohol
+acarbose	diabetes mellitus
+acebutolol	hypertension
+acebutolol	ventricular arrhythmias
+aceclidine	glaucoma
+aceclofenac	rheumatoid arthritis
+aceclofenac	ankylosing spondylitis
+aceclofenac	osteoarthritis
+aceclofenac	periarthritis
+aceclofenac	lumbago
+aceclofenac	ischiadynia
+acedapsone	leprosy
+acefylline	asthma
+aceglutamide	peptic ulcer disease (PUD)
+acemetacin	osteoarthritis
+acenocoumarol	deep vein thrombosis (DVT)
+acepromazine	sedative
+acetarsol	diarrhea
+acetazolamide	glaucoma
+acetohexamide	diabetes mellitus
+acetohydroxamic-acid	urinary tract infections
+acetophenazine	psychosis
+acetylcholine	drowsiness
+acetylcholine	fatigue
+acetylcholine	headache
+acetylcholine	indigestion
+acetylcholine	chest congestion
+acetylcysteine	acetaminophen overdose
+acetylcysteine	hepatic injury
+acetyl-farnesyl-cysteine	acne vulgaris (AV)
+acetyl-l-leucine	vertigo
+acexamic-acid	wound healing
+acipimox	hyperlipidemia
+acitazanolast	allergic rhinitis
+acitretin	psoriasis
+aclarubicin	acute myeloid leukemia (AML)
+aclidinium	bronchitis
+aclidinium	emphysema
+aclidinium	chronic obstructive pulmonary disease (COPD)
+acriflavine	fungal infection
+acriflavinium	fungal infection
+acrisorcin	fungal infection
+acrivastine	allergic rhinitis
+act-132577	pulmonary arterial hypertension (PAH)
+actarit	rheumatoid arthritis
+actinomycin-d	Wilm's tumor
+actinomycin-d	Ewing's sarcoma
+actinomycin-d	rhabdomyosarcoma
+actinomycin-d	testicular carcinoma
+acyclovir	genitial herpes
+acyclovir	shingles
+acyclovir	chicken pox
+adapalene	acne vulgaris (AV)
+adefovir	hepatitis B
+adefovir-dipivoxil	hepatitis B
+adelmidrol	dermatitis
+ademetionine	depression
+ademetionine	attention-deficit/hyperactivity disorder (ADHD)
+adenosine	Wolff-Parkinson-White Syndrome (WPW)
+adiphenine	spasms
+adrafinil	fatigue
+adrenalone	hemorrhage
+afatinib	non-small cell lung cancer (NSCLC)
+afloqualone	sedative
+afobazole	anxiety
+agomelatine	depression
+ajmaline	Wolff-Parkinson-White Syndrome (WPW)
+aklomide	coccidiosis
+alacepril	hypertension
+albendazole	cystic hydatid disease
+albendazole	parenchymal neurocysticercosis
+albendazole-oxide	cystic hydatid disease
+albendazole-oxide	parenchymal neurocysticercosis
+albuterol	asthma
+alcaftadine	allergic conjunctivitis
+alclofenac	rheumatoid arthritis
+alclometasone-dipropionate	corticosteroid-responsive dermatoses
+alcuronium	muscle relaxant
+alectinib	non-small cell lung cancer (NSCLC)
+alendronate	osteoporosis
+alfacalcidol	vitamin D deficiency
+alfuzosin	benign prostatic hyperplasia (BPH)
+algestone-acetophenide	contraceptive
+alibendol	bile stimulation
+alimemazine	sedative
+alimemazine	urticaria
+alimemazine	itching
+alimemazine	cough suppressant
+aliskiren-hemifumarate	hypertension
+alizapride	nausea
+allantoin	skin protectant
+allopurinol	gout
+allopurinol	kidney stones
+allylestrenol	premature labor
+almitrine	chronic obstructive pulmonary disease (COPD)
+almotriptan	migraine headache
+alogliptin	diabetes mellitus
+alpelisib	breast cancer
+alpha-tochopherol	vitamin E deficiency
+alpha-tochopheryl-acetate	vitamin E deficiency
+alprenolol	angina pectoris
+alprostadil	congenital heart defects
+althiazide	hypertension
+altrenogest	estrus
+altretamine	ovarian cancer
+alverine	irritable bowel syndrome
+alverine	diverticular disease
+alvimopan	postoperative ileus
+amantadine	influenza A virus infection
+amantadine	Parkinson's Disease
+ambenonium	myasthenia gravis
+ambrisentan	pulmonary arterial hypertension (PAH)
+ambroxol	bronchitis
+amcinonide	corticosteroid-responsive dermatoses
+amdinocillin	urinary tract infections
+amdinocillin	gram-negative bacterial infections
+amezinium	hypotension
+amfenac	pain relief
+amidopyrine	dermatitis herpetiformis (DH)
+amifampridine	Lambert-Eaton myasthenic syndrome (LEMS)
+amifostine	renal toxicity
+amikacin	gram-negative bacterial infections
+amiloride	hypertension
+amiloride	congestive heart failure
+aminocaproic-acid	fibrinolytic bleeding
+aminoglutethimide	Cushing's syndrome
+aminoglutethimide	breast cancer
+aminohydroxybutyric-acid	epilepsy
+aminopentamide	acute abdominal visceral spasm
+aminopentamide	hypertrophic gastritis (GHG)
+aminopentamide	nausea
+aminophylline	asthma
+aminophylline	bronchitis
+aminophylline	emphysema
+aminosalicylate	inflammatory bowel disease
+aminosalicylate	ulcerative colitis
+amiodarone	ventricular arrhythmias
+amisulpride	psychosis
+amisulpride	bipolar disorder
+amisulpride	schizophrenia
+amitraz	generalized demodicosis
+amitriptyline	depression
+amlexanox	aphthous ulcers
+amlexanox	asthma
+amlexanox	conjunctivitis
+amlexanox	allergic rhinitis
+amlodipine	hypertension
+amlodipine	chronic stable angina
+amlodipine	vasospastic angina
+amlodipine	coronary artery disease (CAD)
+ammonium-glycyrrhizinate	cosmetic
+ammonium-lactate	xerosis cutis
+ammonium-lactate	ichthyosis vulgaris
+amodiaquine	malaria
+amorolfine	onychomycosis
+amoxapine	depression
+amoxicillin	skin infections
+amoxicillin	duodenal ulcer disease
+amoxicillin	gonorrhea
+amoxicillin	ear infections
+amoxicillin	throat infections
+amoxicillin	genitourinary tract infections
+amoxicillin	respiratory tract infections
+amperozide	psychosis
+amphotericin-b	fungal infection
+ampicillin	respiratory tract infections
+ampicillin	meningitis
+ampicillin	bacterial septicemia
+ampicillin	endocarditis
+ampicillin	urinary tract infections
+ampicillin	gastrointestinal infections
+ampiroxicam	pain relief
+amprenavir	human immunodeficiency virus (HIV-1)
+amprolium	coccidiosis
+amrinone	congestive heart failure
+amrubicin	small cell lung cancer
+amsacrine	acute lymphoblastic leukemia (ALL)
+amtolmetin-guacil	rheumatoid arthritis
+amtolmetin-guacil	osteoarthritis
+anagliptin	diabetes mellitus
+anagrelide	thrombocythemia
+anagrelide	myeloproliferative neoplasms
+anastrozole	breast cancer
+anecortave-acetate	macular degeneration
+anethole-trithione	xerostomia
+anidulafungin	candidemia
+anidulafungin	fungal infection
+anidulafungin	esophageal candidiasis
+anisindione	deep vein thrombosis (DVT)
+anisotropine	peptic ulcer disease (PUD)
+antazoline	conjunctivitis
+antazoline	nasal congestion
+anthralin	psoriasis
+apalutamide	prostate cancer
+apixaban	stroke
+apixaban	systemic embolism
+apixaban	pulmonary embolism (PE)
+apixaban	atrial fibrillation (AF)
+apixaban	deep vein thrombosis (DVT)
+apraclonidine	glaucoma
+apraclonidine	intraocular pressure
+apramycin	gram-negative bacterial infections
+apremilast	psoriasis
+apremilast	psoriatic arthritis
+aprepitant	nausea
+aprepitant	vomiting
+aprindine	cardiac arrythmia
+arbidol	influenza A virus infection
+argatroban	heparin-induced thrombocytopenia (HIT)
+aripiprazole	depression
+aripiprazole	schizophrenia
+aripiprazole	bipolar disorder
+aripiprazole-lauroxil	schizophrenia
+arotinolol	hypertension
+arotinolol	tremors
+arsenic-trioxide	diarrhea
+artemether	malaria
+artemisinin	malaria
+artemotil	malaria
+artesunate	malaria
+articaine	local anesthetic
+ascorbic-acid	scurvy
+asenapine	schizophrenia
+asenapine	bipolar disorder
+aspirin	headache
+aspirin	fever
+aspirin	toothache
+aspirin	muscle pain
+ataluren	duchenne muscular dystrophy (DMD)
+ataluren	cystic fibrosis
+atazanavir	human immunodeficiency virus (HIV-1)
+atenolol-(-)	hypertension
+atenolol-(+/-)	hypertension
+atenolol-(+/-)	angina pectoris
+atipamezole	reverse sedative
+atomoxetine	attention-deficit/hyperactivity disorder (ADHD)
+atorvastatin	stroke
+atorvastatin	heart attack
+atosiban	stroke
+atosiban	angina pectoris
+atosiban	myocardial infarction
+atosiban	hyperlipidemia
+atovaquone	pneumonia
+atracurium	endotracheal intubation
+atracurium	muscle relaxant
+atropine	cycloplegia
+atropine	mydriasis
+atropine	amblyopia
+auranofin	rheumatoid arthritis
+aurothioglucose	rheumatoid arthritis
+avanafil	erectile dysfunction
+avatrombopag	thrombocytopenia
+avibactam	intra-abdominal infections
+avibactam	urinary tract infections
+avibactam	pyelonephritis
+avobenzone	cosmetic
+avobenzone	sunscreen lotion
+axitinib	renal cell carcinoma (RCC)
+azacitidine	myelodysplastic diseases (MDS)
+azacitidine	anemia
+azacitidine	chronic myelomonocytic leukemia (CMMoL)
+azaperone	sedative
+azasetron	genitial herpes
+azatadine	allergic rhinitis
+azathioprine	renal homotransplantation
+azathioprine	rheumatoid arthritis
+azelaic-acid	rosacea
+azelastine	conjunctivitis
+azelnidipine	hypertension
+azilsartan	hypertension
+azilsartan-medoxomil	hypertension
+azithromycin	pelvic inflammatory disease
+azithromycin	pneumonia
+azlocillin	gram-positive bacterial infections
+azlocillin	gram-negative bacterial infections
+azosemide	edema
+aztreonam	urinary tract infections
+aztreonam	respiratory tract infections
+aztreonam	bacterial septicemia
+aztreonam	skin infections
+aztreonam	intra-abdominal infections
+aztreonam	gynecologic infections
+bacampicillin	gram-positive bacterial infections
+bacampicillin	gram-negative bacterial infections
+bacitracin	first-aid antibiotic
+bacitracin-zinc	first-aid antibiotic
+baclofen	multiple sclerosis
+baclofen	spasms
+baicalin	anxiety
+balofloxacin	gram-negative bacterial infections
+baloxavir-marboxil	influenza A virus infection
+balsalazide	ulcerative colitis
+bambuterol	asthma
+baricitinib	rheumatoid arthritis
+barnidipine	hypertension
+bazedoxifene	osteoporosis
+bazedoxifene	menopause
+beclamide	sedative
+beclamide	seizures
+beclomethasone	allergic rhinitis
+beclomethasone-dipropionate	allergic rhinitis
+bedaquiline	tuberculosis
+bekanamycin	gram-negative bacterial infections
+belinostat	peripheral T-cell lymphoma (PTCL)
+bemegride	poison antidote
+bemotrizinol	sunscreen lotion
+benazepril	hypertension
+bendamustine	chronic lymphocytic leukemia (CLL)
+bendamustine	non-Hodgkin lymphoma (NHL)
+bendazac	muscle pain
+bendazac	joint pain
+bendroflumethiazide	hypertension
+benfotiamine	lumbago
+benidipine	hypertension
+benperidol	schizophrenia
+benproperine	cough suppressant
+benserazide	Parkinson's Disease
+bentiromide	pancreas diagnostic agent
+benzalkonium	abrasions
+benzalkonium	superficial cuts
+benzbromarone	gout
+benzethonium	first-aid antiseptic
+benznidazole	Chagas disease
+benzocaine	first-aid antiseptic
+benzoic-acid	tinea pedis
+benzonatate	cough suppressant
+benzoyl-peroxide	acne vulgaris (AV)
+benzthiazide	hypertension
+benzthiazide	edema
+benztropine-mesylate	extrapyramidal symptoms (EPS)
+benztropine-mesylate	Parkinson's Disease
+benzydamine	mouth inflammation
+benzydamine	throat inflammation
+benzyl-alcohol	virus herpes simplex (HSV)
+benzyl-benzoate	sweet itch
+benzylpenicillin	celluitis
+benzylpenicillin	meningitis
+benzylpenicillin	endocarditis
+benzylpenicillin	syphilis
+benzylpenicillin	pneumonia
+benzylpenicillin	bacterial septicemia
+bephenium-hydroxynaphthoate	ascariasis
+bepotastine	conjunctivitis
+bepridil	angina pectoris
+besifloxacin	conjunctivitis
+betahistine	Meniere's disease
+betaine	homocystinuria
+betamethasone	corticosteroid-responsive dermatoses
+betamethasone-acetate	corticosteroid-responsive dermatoses
+betamethasone-butyrate-propionate	rheumatoid arthritis
+betamethasone-dipropionate	corticosteroid-responsive dermatoses
+betamethasone-phosphate	rheumatoid arthritis
+betamethasone-valerate	corticosteroid-responsive dermatoses
+betamipron	renal toxicity
+betaxolol	intraocular pressure
+betaxolol	glaucoma
+betaxolol	ocular hypertension
+betazole	gastric hypersecretion diagnostic
+bethanechol	urinary retention
+betrixaban	deep vein thrombosis (DVT)
+bevantolol	angina pectoris
+bevantolol	hypertension
+bexarotene	cutaneous T-cell lymphoma (CTCL)
+bezafibrate	cholesterol
+biapenem	bacterial septicemia
+biapenem	pneumonia
+biapenem	urinary tract infections
+bicalutamide	prostate cancer
+bictegravir	human immunodeficiency virus (HIV-1)
+bicyclol	hepatitis B
+bicyclol	hepatitis C
+bifemelane	glaucoma
+bifemelane	senile dementia
+bifendate	hepatitis B
+bifendate	hepatitis C
+bifonazole	tinea pedis
+bifonazole	tinea cruris
+bilastine	conjunctivitis
+bimatoprost	intraocular pressure
+bimatoprost	glaucoma
+bimatoprost	ocular hypertension
+binimetinib	melanoma
+biperiden	Parkinson's Disease
+bisacodyl	constipation
+bismuth-subcitrate-potassium	duodenal ulcer disease
+bismuth-subgallate	internal deoderant
+bismuth-subsalicylate	diarrhea
+bisoprolol	hypertension
+bivalirudin	angina pectoris
+bleomycin	non-Hodgkin lymphoma (NHL)
+bleomycin	Hodgkin's lymphoma
+bleomycin	pleural effusion
+bleomycin	testicular carcinoma
+bleomycin	squamous cell carcinoma
+blonanserin	schizophrenia
+boceprevir	hepatitis C
+bopindolol	hypertension
+bopindolol	coronary artery disease (CAD)
+bortezomib	multiple myeloma
+bortezomib	mantle cell lymphoma (MCL)
+bosentan	pulmonary arterial hypertension (PAH)
+bosutinib	chronic myeloid leukemia (CML)
+bremelanotide	hypoactive sexual desire disorder
+bretylium	ventricular arrhythmias
+bretylium	ventricular fibrillation (VF)
+bretylium	ventricular tachycardia (VT)
+brexpiprazole	depression
+brexpiprazole	schizophrenia
+brigatinib	non-small cell lung cancer (NSCLC)
+brilliant-green	antiseptic
+brimonidine	intraocular pressure
+brimonidine	glaucoma
+brimonidine	ocular hypertension
+brinzolamide	intraocular pressure
+brinzolamide	glaucoma
+brinzolamide	ocular hypertension
+brivudine	shingles
+brolitene	lumbago
+bromantan	neurasthenia
+bromhexine	chest congestion
+bromocriptine	hyperprolactinemia
+bromocriptine	Parkinson's Disease
+bromocriptine	acromegaly
+bromopride	nausea
+bromopride	vomiting
+bromopride	gastroesophageal reflux disease (GERD)
+bromperidol	schizophrenia
+brompheniramine	allergic rhinitis
+brompheniramine	common cold
+bronopol	mastitis
+bucillamine	rheumatoid arthritis
+bucladesine	skin ulcer
+buclizine	migraine headache
+budesonide	Crohn's disease
+budipine	Parkinson's Disease
+buflomedil	peripheral artery disease (PAD)
+bumetanide	edema
+bumetanide	congestive heart failure
+bunazosin	glaucoma
+bunazosin	intraocular pressure
+buparvaquone	protozoan infection
+buphenine	Raynaud's disease
+bupivacaine	peripheral nerve block
+bupivacaine	caudal epidural block
+bupivacaine	lumbar epidural block
+bupranolol	hypertension
+bupranolol	glaucoma
+bupropion	depression
+buserelin	prostate cancer
+buserelin	endometriosis
+buspirone	generalized anxiety disorder (GAD)
+busulfan	chronic myeloid leukemia (CML)
+butacaine	local anesthetic
+butalbital	headache
+butalbital	muscle relaxant
+butenafine	tinea pedis
+butenafine	tinea cruris
+butenafine	tinea corporis
+butoconazole	vulvovaginal candidiasis
+butylphthalide	stroke
+butylscopolamine-bromide	abdominal pain
+cabagin	dyspepsia
+cabazitaxel	prostate cancer
+cabergoline	hyperprolactinemia
+cabozantinib	medullary thyroid cancer (MTC)
+cadralazine	hypertension
+caffeine	fatigue
+caffeine	drowsiness
+calcifediol	hyperparathyroidism
+calcipotriol	psoriasis
+calcitonin	osteoporosis
+calcitriol	hypocalcemia
+calcitriol	hypoparathyroidism
+calcitriol	osteoporosis
+camostat-mesilate	pancreatitis
+camylofine-chlorhydrate	abdominal pain
+canagliflozin	diabetes mellitus
+candesartan	hypertension
+candesartan	congestive heart failure
+candesartan-cilexetil	hypertension
+candesartan-cilexetil	congestive heart failure
+candesartan-cilexetil	hypertension
+candicidin	vulvovaginal candidiasis
+cangrelor	myocardial infarction
+cantharidin	blisters
+capecitabine	breast cancer
+capecitabine	colorectal cancer
+capreomycin	tuberculosis
+capsaicin	muscle pain
+capsaicin	rheumatoid arthritis
+captopril	hypertension
+captopril	congestive heart failure
+captopril	myocardial infarction
+captopril	diabetes mellitus
+captopril	diabetic nephropathy
+caramiphen	Parkinson's Disease
+carazolol	angina pectoris
+carazolol	cardiac arrythmia
+carazolol	hypertension
+carazolol	myocardial infarction
+carbachol	intraocular pressure
+carbadox	dysentry
+carbadox	enteritis
+carbamazepine	seizures
+carbarsone	amebiasis
+carbazochrome	hemorrhage
+carbendazim	fungicide
+carbenicillin	gram-negative bacterial infections
+carbenoxolone	peptic ulcer disease (PUD)
+carbenoxolone	mouth inflammation
+carbetapentane	common cold
+carbetapentane	nasal congestion
+carbetapentane	bronchitis
+carbetocin	hemorrhage
+carbidopa	Parkinson's Disease
+carbimazole	hyperthyroidism
+carbinoxamine	allergic rhinitis
+carbinoxamine	conjunctivitis
+carbinoxamine	vasomotor rhinitis
+carbinoxamine	dermatographism
+carboplatin	ovarian cancer
+carfilzomib	multiple myeloma
+carglumic-acid	hyperammonemia
+cariprazine	schizophrenia
+carmofur	breast cancer
+carmofur	colorectal cancer
+carmustine	non-Hodgkin lymphoma (NHL)
+carmustine	Hodgkin's lymphoma
+carmustine	multiple myeloma
+carmustine	glioblastoma
+carmustine	brainstem glioma
+carmustine	medulloblastoma
+carmustine	astrocytoma
+carmustine	ependymoma
+carprofen	osteoarthritis
+carteolol	intraocular pressure
+carteolol	glaucoma
+carteolol	ocular hypertension
+carumonam	urinary tract infections
+carumonam	gram-negative bacterial infections
+carvedilol	myocardial infarction
+carvedilol	hypertension
+casanthranol-variant	constipation
+caspofungin	candidemia
+caspofungin	esophageal candidiasis
+caspofungin	aspergillosis
+caspofungin	peritonitis
+caspofungin	fungal infection
+cefaclor	pneumonia
+cefaclor	skin infections
+cefaclor	urinary tract infections
+cefaclor	respiratory tract infections
+cefaclor	tonsillitis
+cefaclor	pharyngitis
+cefadroxil	urinary tract infections
+cefadroxil	skin infections
+cefadroxil	tonsillitis
+cefadroxil	pharyngitis
+cefalonium	gram-positive bacterial infections
+cefamandole	skin infections
+cefamandole	urinary tract infections
+cefamandole	respiratory tract infections
+cefamandole-nafate	skin infections
+cefamandole-nafate	urinary tract infections
+cefamandole-nafate	respiratory tract infections
+cefathiamidine	gram-positive bacterial infections
+cefazolin	urinary tract infections
+cefazolin	skin infections
+cefazolin	bacterial septicemia
+cefazolin	endocarditis
+cefazolin	surgical prophylaxis
+cefazolin	bone and joint infections
+cefcapene-pivoxil	skin infections
+cefcapene-pivoxil	pneumonia
+cefcapene-pivoxil	urinary tract infections
+cefdinir	pneumonia
+cefdinir	tonsillitis
+cefdinir	pharyngitis
+cefdinir	bronchitis
+cefdinir	skin infections
+cefdinir	otitis
+cefdinir	sinusitis
+cefditoren-pivoxil	pneumonia
+cefditoren-pivoxil	bronchitis
+cefditoren-pivoxil	skin infections
+cefditoren-pivoxil	tonsillitis
+cefditoren-pivoxil	pharyngitis
+cefepime	pneumonia
+cefepime	urinary tract infections
+cefepime	skin infections
+cefepime	intra-abdominal infections
+cefetamet	ear infections
+cefetamet	pneumonia
+cefetamet	otitis
+cefetamet	sinusitis
+cefetamet	bronchitis
+cefetamet	urinary tract infections
+cefetamet-pivoxil	gram-positive bacterial infections
+cefixime	urinary tract infections
+cefixime	otitis
+cefixime	pharyngitis
+cefixime	tonsillitis
+cefixime	gonorrhea
+cefixime	bronchitis
+cefmenoxime	gram-negative bacterial infections
+cefmetazole	urinary tract infections
+cefmetazole	skin infections
+cefminox	gram-negative bacterial infections
+cefodizime	respiratory tract infections
+cefodizime	skin infections
+cefodizime	gonorrhea
+cefonicid	gram-positive bacterial infections
+cefoperazone	gram-negative bacterial infections
+ceforanide	gram-negative bacterial infections
+cefoselis	gram-negative bacterial infections
+cefoselis	gram-positive bacterial infections
+cefotaxime	respiratory tract infections
+cefotaxime	bone and joint infections
+cefotaxime	pelvic inflammatory disease
+cefotaxime	intra-abdominal infections
+cefotaxime	skin infections
+cefotaxime	meningitis
+cefotaxime	urinary tract infections
+cefotaxime	bacterial septicemia
+cefotaxime	gynecologic infections
+cefotetan	urinary tract infections
+cefotetan	respiratory tract infections
+cefotetan	skin infections
+cefotetan	gynecologic infections
+cefotetan	chlamydia
+cefotetan	intra-abdominal infections
+cefotetan	bone and joint infections
+cefotetan	surgical prophylaxis
+cefotiam	bacterial septicemia
+cefotiam	bone and joint infections
+cefotiam	respiratory tract infections
+cefotiam	skin infections
+cefotiam	urinary tract infections
+cefotiam-cilexetil	gram-negative bacterial infections
+cefotiam-cilexetil	gram-positive bacterial infections
+cefoxitin	respiratory tract infections
+cefoxitin	urinary tract infections
+cefoxitin	intra-abdominal infections
+cefoxitin	gynecologic infections
+cefoxitin	bacterial septicemia
+cefoxitin	bone and joint infections
+cefoxitin	skin infections
+cefozopran	gram-negative bacterial infections
+cefozopran	gram-positive bacterial infections
+cefpiramide	gram-negative bacterial infections
+cefpirome	gram-negative bacterial infections
+cefpodoxime	pharyngitis
+cefpodoxime	pneumonia
+cefpodoxime	bronchitis
+cefpodoxime	gonorrhea
+cefpodoxime	skin infections
+cefpodoxime	urinary tract infections
+cefpodoxime	sinusitis
+cefpodoxime	tonsillitis
+cefprozil	pharyngitis
+cefprozil	tonsillitis
+cefprozil	otitis
+cefprozil	sinusitis
+cefprozil	respiratory tract infections
+cefprozil	skin infections
+cefprozil	bronchitis
+cefradine	respiratory tract infections
+cefradine	otitis
+cefradine	skin infections
+cefradine	urinary tract infections
+cefradine	tonsillitis
+cefradine	pharyngitis
+cefradine	pneumonia
+cefsulodin	gram-negative bacterial infections
+ceftaroline-fosamil	skin infections
+ceftaroline-fosamil	pneumonia
+ceftazidime	respiratory tract infections
+ceftazidime	skin infections
+ceftazidime	bacterial septicemia
+ceftazidime	bone and joint infections
+ceftazidime	gynecologic infections
+ceftazidime	intra-abdominal infections
+ceftazidime	meningitis
+ceftibuten	bronchitis
+ceftibuten	otitis
+ceftibuten	pharyngitis
+ceftibuten	tonsillitis
+ceftiofur	pneumonia
+ceftiofur	respiratory tract infections
+ceftizoxim	respiratory tract infections
+ceftizoxim	urinary tract infections
+ceftizoxim	gonorrhea
+ceftizoxim	pelvic inflammatory disease
+ceftizoxim	intra-abdominal infections
+ceftizoxim	bacterial septicemia
+ceftizoxim	skin infections
+ceftizoxim	bone and joint infections
+ceftizoxim	meningitis
+ceftriaxone	gonorrhea
+ceftriaxone	pneumonia
+ceftriaxone	otitis
+ceftriaxone	skin infections
+ceftriaxone	urinary tract infections
+ceftriaxone	pelvic inflammatory disease
+ceftriaxone	bacterial septicemia
+ceftriaxone	bone and joint infections
+ceftriaxone	intra-abdominal infections
+ceftriaxone	meningitis
+ceftriaxone	surgical prophylaxis
+cefuroxime	gram-negative bacterial infections
+cefuroxime-axetil	pharyngitis
+cefuroxime-axetil	tonsillitis
+cefuroxime-axetil	otitis
+cefuroxime-axetil	sinusitis
+celecoxib	osteoarthritis
+celecoxib	rheumatoid arthritis
+celecoxib	ankylosing spondylitis
+celecoxib	primary dysmenorrhea (PD)
+celiprolol	Ehlers-Danlos syndrome (EDS)
+cephalexin	respiratory tract infections
+cephalexin	otitis
+cephalexin	skin infections
+cephalexin	bone and joint infections
+cephalexin	genitourinary tract infections
+cephalothin	skin infections
+cephalothin	surgical prophylaxis
+cephapirin	mastitis
+cephradine	skin infections
+cephradine	respiratory tract infections
+cephradine	urinary tract infections
+ceramide	cosmetic
+ceritinib	non-small cell lung cancer (NSCLC)
+cerulenin	fungal infection
+cetirizine	allergic rhinitis
+cetrimonium	cosmetic
+cetrorelix	premature luteinizing hormone surges
+cetylpyridinium	gingivitis
+cetylpyridinium	mouth inflammation
+cevimeline	sjogren's syndrome
+chenodeoxycholic-acid	cerebral cholesterosis
+chenodeoxycholic-acid	gallstones
+chidamide	peripheral T-cell lymphoma (PTCL)
+chiniofon	amebiasis
+chlorambucil	chronic lymphocytic leukemia (CLL)
+chlorambucil	Hodgkin's lymphoma
+chloramine-t	bacterial gill disease
+chloramphenicol	meningitis
+chloramphenicol	fever
+chloramphenicol	cholera
+chloramphenicol-palmitate	meningitis
+chloramphenicol-palmitate	fever
+chloramphenicol-palmitate	cholera
+chloramphenicol-sodium-succinate	gram-negative bacterial infections
+chlorcyclizine	allergic rhinitis
+chlorhexidine	cosmetic
+chlorhexidine	skin infections
+chlorhexidine	gingivitis
+chlormadinone-acetate	hypermenorrhea
+chlormadinone-acetate	amenorrhea
+chlormadinone-acetate	oligomenorrhea
+chlormadinone-acetate	polymenorrhea
+chlormidazole	fungal infection
+chlorobutanol	anesthetic
+chlorobutanol	sedative
+chlorocresol	first-aid antiseptic
+chlorogenic-acid	headache
+chlorogenic-acid	chest congestion
+chlorogenic-acid	allergic rhinitis
+chlorophyllin	urinary incontinence
+chloroprocaine	local anesthetic
+chloropyramine	edema
+chloropyramine	conjunctivitis
+chloropyramine	allergic rhinitis
+chloropyramine	asthma
+chloroquine	malaria
+chloroquine	amebiasis
+chlorothiazide	hypertension
+chlorotrianisene	menopause
+chlorotrianisene	prostate cancer
+chloroxine	diarrhea
+chloroxine	inflammatory bowel disease
+chloroxine	giardiasis
+chloroxine	dandruff
+chloroxylenol	skin infections
+chlorphenamine	allergic rhinitis
+chlorphenamine	urticaria
+chlorphenesin	muscle relaxant
+chlorphenesin	sedative
+chlorphensin-carbamate	spasms
+chlorproguanil	malaria
+chlorpromazine	schizophrenia
+chlorpromazine	nausea
+chlorpromazine	vomiting
+chlorpromazine	acute intermittent porphyria (AIP)
+chlorpromazine	tetanus
+chlorpropamide	diabetes mellitus
+chlorprothixene	schizophrenia
+chlorprothixene	bipolar disorder
+chlorquinaldol	fungal infection
+chlortetracycline	conjunctivitis
+chlorthalidone	hypertension
+chlorthalidone	edema
+chlorthalidone	congestive heart failure
+chlorthalidone	hepatic cirrhosis
+chlorthalidone	nephrotic syndrome
+chlorthalidone	acute glomerulonephritis (AGN)
+chlorthalidone	chronic renal failure
+chlorzoxazone	muscle relaxant
+cholecalciferol	vitamin D deficiency
+cholic-acid	bile acid synthesis disorders
+cholic-acid	peroxisomal disorders
+cholic-acid	Zellweger syndrome
+chromium-picolinate	diabetes mellitus
+cibenzoline	cardiac arrythmia
+ciclesonide	allergic rhinitis
+ciclopirox	onychomycosis
+cidofovir	acquired immunodeficiency syndrome (AIDS)
+cidofovir	cytomegalovirus retinitis
+cilazapril	hypertension
+cilazapril	congestive heart failure
+cilnidipine	hypertension
+cilostazol	claudication
+cimetidine	duodenal ulcer disease
+cimetidine	peptic ulcer disease (PUD)
+cimetidine	gastroesophageal reflux disease (GERD)
+cimetidine	aggressive systemic mastocytosis (ASM)
+cimetidine	Zollinger-Ellison syndrome
+cimetidine	endocrine adenoma
+cimetropium	irritable bowel syndrome
+cinacalcet	hyperparathyroidism
+cinacalcet	chronic kidney disease (CKD)
+cinacalcet	parathyroid carcinoma
+cinacalcet	hypercalcemia
+cinchocaine	local anesthetic
+cinchophen	gout
+cinnarazine	Meniere's disease
+cinnarazine	nausea
+cinnarazine	vomiting
+cinnarazine	Cogan's syndrome
+cinoxacin	urinary tract infections
+cinoxate	sunscreen lotion
+ciprofibrate	hyperlipidemia
+ciprofloxacin	otitis
+cisatracurium	muscle relaxant
+cisatracurium	endotracheal intubation
+cisplatin	testicular carcinoma
+cisplatin	ovarian cancer
+cisplatin	bladder cancer
+citalopram	depression
+citicoline	stroke
+citicoline	Alzheimer's disease
+citicoline	senile dementia
+citicoline	Parkinson's Disease
+citicoline	attention-deficit/hyperactivity disorder (ADHD)
+citicoline	glaucoma
+cladribine	hairy cell leukemia
+clarithromycin	pharyngitis
+clarithromycin	tonsillitis
+clarithromycin	sinusitis
+clarithromycin	bronchitis
+clarithromycin	pneumonia
+clarithromycin	skin infections
+clarithromycin	otitis
+clavulanate	otitis
+clebopride	nausea
+clemastine	allergic rhinitis
+clemastine	urticaria
+clemizole	allergic rhinitis
+clenbuterol	chronic obstructive pulmonary disease (COPD)
+clenbuterol	asthma
+cleviprex	hypertension
+clevudine	hepatitis B
+clidinium	peptic ulcer disease (PUD)
+clidinium	irritable bowel syndrome
+clidinium	enterocolitis
+climbazole	dandruff
+climbazole	eczema
+clindamycin	respiratory tract infections
+clindamycin	pneumonia
+clindamycin	skin infections
+clindamycin	gynecologic infections
+clindamycin	intra-abdominal infections
+clindamycin	bacterial septicemia
+clindamycin	bone and joint infections
+clindamycin-palmitate	intra-abdominal infections
+clindamycin-palmitate	skin infections
+clindamycin-palmitate	pneumonia
+clindamycin-palmitate	peritonitis
+clindamycin-palmitate	gynecologic infections
+clindamycin-phosphate	bacterial vaginosis
+clinofibrate	hypertriglyceridemia
+clobetasol-propionate	corticosteroid-responsive dermatoses
+clobetasone-butyrate	eczema
+clobetasone-butyrate	psoriasis
+clobetasone-butyrate	dermatitis
+clocortolone-pivalate	corticosteroid-responsive dermatoses
+clodronic-acid	osteoporosis
+clodronic-acid	hyperparathyroidism
+clodronic-acid	hypercalcemia
+clodronic-acid	multiple myeloma
+clofarabine	acute lymphoblastic leukemia (ALL)
+clofazimine	leprosy
+clofedanol	cough suppressant
+clofibrate	hyperlipidemia
+clofibrate	cholesterol
+clofibric-acid	hyperlipidemia
+clofoctol	gram-positive bacterial infections
+clomethiazole	Parkinson's Disease
+clomethiazole	sedative
+clomethiazole	muscle relaxant
+clomifene	infertility
+clomipramine	obsessive compulsive disorder (OCD)
+clonidine	hypertension
+clonidine	attention-deficit/hyperactivity disorder (ADHD)
+clonixin	rheumatoid arthritis
+clonixin	soft tissue infection
+clonixin-lysinate	pain relief
+clopamide	hypertension
+cloperastine	cough suppressant
+clopidogrel	myocardial infarction
+clopidogrel	stroke
+clopidogrel	peripheral artery disease (PAD)
+clopidogrel	acute coronary syndrome (ACS)
+clopidol	coccidiosis
+cloprostenol-(+/-)	endometriosis
+cloranolol	hypertension
+clorotepine	psychosis
+clorprenaline	asthma
+clorsulon	gastrointestinal roundworms
+clorsulon	lungworms
+clorsulon	liver flukes
+clorsulon	lice
+clorsulon	mites
+closantel	liver flukes
+clotiapine	psychosis
+clotrimazole	vulvovaginal candidiasis
+clotrimazole	oropharyngeal candidiasis
+cloxacillin	gram-positive bacterial infections
+clozapine	schizophrenia
+cobicistat	human immunodeficiency virus (HIV-1)
+cobimetinib	melanoma
+colchicine	gout
+colchicine	fever
+colfosceril-palmitate	respiratory distress syndrome (RDS)
+colistimethate	gram-negative bacterial infections
+colistin	gram-negative bacterial infections
+colistin	gram-negative bacterial infections
+conivaptan	hyponatremia
+copanlisib	follicular lymphoma
+cortisone	ulcerative colitis
+cortisone	rheumatoid arthritis
+cortisone	psoriasis
+cortisone	joint inflammation
+cortisone	eczema
+cortisone-acetate	asthma
+cortisone-acetate	rheumatoid arthritis
+cortisone-acetate	urticaria
+cortisone-acetate	osteoarthritis
+cortisone-acetate	psoriasis
+cortisone-acetate	allergic rhinitis
+cortisone-acetate	conjunctivitis
+cortisone-acetate	ulcerative colitis
+cortisone-acetate	meningitis
+coumarin	ulcerative colitis
+coumarin	asthma
+coumarin	celiac disease
+cridanimod	influenza A virus infection
+crisaborole	dermatitis
+crizotinib	non-small cell lung cancer (NSCLC)
+croconazole	fungal infection
+cromoglicic-acid	asthma
+cromoglicic-acid	conjunctivitis
+cromoglicic-acid	urticaria
+cromoglicic-acid	ulcerative colitis
+crotamiton	scabies
+cyamemazine	schizophrenia
+cyamemazine	anxiety
+cyanocobalamin	anemia
+cyanocobalamin	fish tapeworm infestation
+cyanocobalamin	celiac disease
+cyclandelate	claudication
+cyclandelate	arteriosclerosis
+cyclandelate	Raynaud's disease
+cyclizine	nausea
+cyclizine	vomiting
+cyclizine	vertigo
+cyclizine	motion sickness
+cyclobenzaprine	spasms
+cyclopenthiazide	hypertension
+cyclopenthiazide	congestive heart failure
+cyclopentolate	mydriasis
+cyclopentolate	cycloplegia
+cyclophosphamide	Hodgkin's lymphoma
+cyclophosphamide	small lymphocytic lymphoma (SLL)
+cyclophosphamide	breast cancer
+cyclophosphamide	neuroblastoma
+cyclophosphamide	Burkitt's lymphoma
+cyclophosphamide	multiple myeloma
+cyclophosphamide	chronic lymphocytic leukemia (CLL)
+cyclophosphamide	acute myeloid leukemia (AML)
+cyclophosphamide	acute lymphoblastic leukemia (ALL)
+cyclophosphamide	chronic myeloid leukemia (CML)
+cyclophosphamide	true histiocytic lymphoma (THL)
+cyclophosphamide	retinoblastoma
+cyclophosphamide	ovarian cancer
+cycloserine-(d)	tuberculosis
+cycloserine-(d)	tuberculosis
+cyclosporin-a	rheumatoid arthritis
+cyclosporin-a	psoriasis
+cyclothiazide	hypertension
+cyclovalone	bile stimulation
+cypermethrin	flea control
+cyproheptadine	allergic rhinitis
+cyproheptadine	vasomotor rhinitis
+cyproheptadine	conjunctivitis
+cyproheptadine	urticaria
+cyproheptadine	dermatographism
+cyproterone-acetate	prostate cancer
+cysteamine	cystinosis
+cytarabine	acute lymphoblastic leukemia (ALL)
+cytarabine	chronic lymphocytic leukemia (CLL)
+cytarabine	acute myeloid leukemia (AML)
+cytarabine	non-Hodgkin lymphoma (NHL)
+cytisine	nicotinism
+dabigatran	stroke
+dabigatran	systemic embolism
+dabigatran	pulmonary embolism (PE)
+dabigatran	deep vein thrombosis (DVT)
+dabigatran-etexilate	stroke
+dabigatran-etexilate	systemic embolism
+dabigatran-etexilate	pulmonary embolism (PE)
+dabigatran-etexilate	deep vein thrombosis (DVT)
+dabrafenib	melanoma
+dacarbazine	melanoma
+dacarbazine	Hodgkin's lymphoma
+daclatasvir	hepatitis C
+dactinomycin	testicular carcinoma
+dactinomycin	Wilm's tumor
+dactinomycin	rhabdomyosarcoma
+dactinomycin	Ewing's sarcoma
+dactinomycin	gestational trophoblastic disease (GTD)
+dalbavancin	skin infections
+dalfampridine	multiple sclerosis
+danazol	endometriosis
+danazol	angioedema
+danofloxacin	bovine respiratory disease (BRD)
+dantrolene	spasms
+dantrolene	malignant hyperthermia (MH)
+dapagliflozin	diabetes mellitus
+dapiprazole	mydriasis
+dapoxetine	premature ejaculation (PE)
+dapsone	dermatitis herpetiformis (DH)
+dapsone	leprosy
+daptomycin	skin infections
+daptomycin	endocarditis
+darifenacin	urinary incontinence
+darolutamide	prostate cancer
+darunavir	human immunodeficiency virus (HIV-1)
+dasabuvir	hepatitis C
+dasatinib	chronic myeloid leukemia (CML)
+dasatinib	acute lymphoblastic leukemia (ALL)
+daunorubicin	acute myeloid leukemia (AML)
+daunorubicin	acute lymphoblastic leukemia (ALL)
+debrisoquin	hypertension
+decamethonium	muscle relaxant
+decitabine	myelodysplastic diseases (MDS)
+decitabine	anemia
+decitabine	chronic myeloid leukemia (CML)
+decoquinate	coccidiosis
+deferasirox	transfusional hemosiderosis
+deferasirox	thalassemia
+deferasirox	iron overload
+deferiprone	transfusional hemosiderosis
+deferiprone	thalassemia
+deferiprone	iron overload
+deferoxamine-mesylate	acute iron intoxication
+deferoxamine-mesylate	iron overload
+deflazacort	joint inflammation
+degarelix	prostate cancer
+dehydroepiandrosterone	menopause
+dehydroepiandrosterone-sulfate	menopause
+delamanid	tuberculosis
+delapril	hypertension
+delavirdine	human immunodeficiency virus (HIV-1)
+delivert	sepsis
+demecarium	intraocular pressure
+demecarium	glaucoma
+demeclocycline	fever
+demeclocycline	respiratory tract infections
+demeclocycline	psittacosis
+demeclocycline	trachoma
+demeclocycline	conjunctivitis
+demeclocycline	urethritis
+demeclocycline	chancroid
+demeclocycline	cholera
+demeclocycline	syphilis
+demeclocycline	listeria
+demeclocycline	anthrax
+demeclocycline	actinomycosis
+demeclocycline	tularemia
+demeclocycline	brucellosis
+denopamine	angina pectoris
+denotivir	virus herpes simplex (HSV)
+denotivir	skin infections
+deoxycholic-acid	submental fat
+dequalinium	first-aid antiseptic
+deracoxib	osteoarthritis
+deserpidine	hypertension
+desipramine	depression
+desisobutyryl-ciclesonide	allergic rhinitis
+deslanoside	congestive heart failure
+deslanoside	cardiac arrythmia
+desloratadine	allergic rhinitis
+desloratadine	urticaria
+desmopressin-acetate	central diabetes insipidus
+desmopressin-acetate	nocturnal enuresis
+desogestrel	contraceptive
+desonide	Crohn's disease
+desoximetasone	corticosteroid-responsive dermatoses
+desoxycorticosterone-pivalate	Addison's disease
+desvenlafaxine	depression
+detomidine	sedative
+dexamethasone	hypercalcemia
+dexamethasone	rheumatoid arthritis
+dexamethasone	psoriatic arthritis
+dexamethasone	osteoarthritis
+dexamethasone	allergic rhinitis
+dexamethasone	ulcerative colitis
+dexamethasone	anemia
+dexamethasone	multiple sclerosis
+dexamethasone	enteritis
+dexamethasone	lupus
+dexamethasone	dermatitis herpetiformis (DH)
+dexamethasone	nephrotic syndrome
+dexamethasone	psoriasis
+dexamethasone-acetate	hypercalcemia
+dexamethasone-acetate	rheumatoid arthritis
+dexamethasone-acetate	psoriatic arthritis
+dexamethasone-acetate	osteoarthritis
+dexamethasone-acetate	allergic rhinitis
+dexamethasone-acetate	ulcerative colitis
+dexamethasone-acetate	anemia
+dexamethasone-acetate	multiple sclerosis
+dexamethasone-acetate	enteritis
+dexamethasone-acetate	lupus
+dexamethasone-acetate	dermatitis herpetiformis (DH)
+dexamethasone-acetate	nephrotic syndrome
+dexamethasone-acetate	psoriasis
+dexchlorpheniramine	allergic conjunctivitis
+dexchlorpheniramine	allergic rhinitis
+dexchlorpheniramine	urticaria
+dexchlorpheniramine	angioedema
+dexlansoprazole	gastroesophageal reflux disease (GERD)
+dexlansoprazole	erosive esophagitis (EE)
+dexmedetomidine	sedative
+dexpanthenol	paralytic ileus
+dexrazoxane	cardiomyopathy
+dextran	thrombosis
+dextran	hypovolemia
+dextromethorphan	cough suppressant
+dextrose	hypoglycemia
+diacerein	osteoarthritis
+diatrizoic-acid	contrast agent
+diaveridine	coccidiosis
+diazoxide	hypoglycemia
+dibekacin	gram-negative bacterial infections
+dichlorophen	hookworm
+dichlorophen	tapeworm
+diclazuril	equine protozoal myeloencephalitis (EPM)
+diclofenac	rheumatoid arthritis
+diclofenac	osteoarthritis
+diclofenac	migraine headache
+diclofenamide	glaucoma
+diclofenamide	epilepsy
+dicloxacillin	gram-positive bacterial infections
+dicoumarol	deep vein thrombosis (DVT)
+dicycloverine	irritable bowel syndrome
+didanosine	human immunodeficiency virus (HIV-1)
+didox	breast cancer
+dienestrol	menopause
+dienogest	contraceptive
+dienogest	endometriosis
+diethylcarbamazine	filariasis
+diethyltoluamide	sunscreen lotion
+difenpiramide	pain relief
+diflorasone-diacetate	corticosteroid-responsive dermatoses
+difloxacin	skin infections
+difloxacin	urinary tract infections
+diflunisal	rheumatoid arthritis
+diflunisal	osteoarthritis
+difluprednate	endogenous uveitis
+diftalone	thyroiditis
+digitoxin	congestive heart failure
+digitoxin	cardiac arrythmia
+digoxin	congestive heart failure
+digoxin	atrial fibrillation (AF)
+dihydroartemisinin	malaria
+dihydroergocristine	senile dementia
+dihydroergocristine	cerebrovascular insufficiency
+dihydroergotamine	migraine headache
+dihydrotachysterol	rickets
+dihydrotachysterol	hypocalcemia
+dihydrotachysterol	osteomalacia
+dihydroxyacetone	skin protectant
+dilazep	coronary heart disease
+diloxanide	amebiasis
+diltiazem	hypertension
+diltiazem	angina pectoris
+dimemorfan	cough suppressant
+dimenhydrinate	motion sickness
+dimenhydrinate	nausea
+dimenhydrinate	vomiting
+dimercaprol	metal toxicity
+dimercaptosuccinic-acid	metal toxicity
+dimethicone	cosmetic
+dimethisoquin	local anesthetic
+dimethyl-fumarate	multiple sclerosis
+dimetindene	allergic rhinitis
+dimetridazole	protozoan infection
+dimpylate	flea control
+dinitolmide	coccidiosis
+dinoprost	labor induction
+diosmetin	cosmetic
+diosmin	chronic venous insufficiency (CVI)
+diosmin	edema
+diosmin	deep vein thrombosis (DVT)
+diosmin	statis dermatitis
+diosmin	heavy leg syndrome
+diphemanil	spasms
+diphenhydramine	headache
+diphenidol	vertigo
+diphenylpyraline	allergic rhinitis
+dipivefrine	glaucoma
+dipivefrine	intraocular pressure
+dipyridamole	coronary artery disease (CAD)
+dipyridamole	peripheral artery disease (PAD)
+dipyridamole	hypertension
+dipyrocetyl	fever
+dipyrocetyl	pain relief
+dirithromycin	bronchitis
+disopyramide	ventricular tachycardia (VT)
+disopyramide	ventricular arrhythmias
+disulfiram	abstinence from alcohol
+dithranol	psoriasis
+dobutamine	congestive heart failure
+docetaxel	breast cancer
+docetaxel	non-small cell lung cancer (NSCLC)
+docetaxel	prostate cancer
+docetaxel	gastric adenocarcinoma
+docetaxel	head and neck squamous cell carcinoma (HNSCC)
+doconexent-ethyl-ester	hypertriglyceridemia
+docosanol	cold sore
+docusate	constipation
+dolasetron	nausea
+dolasetron	vomiting
+dolutegravir	human immunodeficiency virus (HIV-1)
+domperidone	fescue toxicosis
+donepezil	Alzheimer's disease
+dopamine	ventricular arrhythmias
+dopamine	depression
+dopamine	headache
+dopamine	tremors
+doramectin	gastrointestinal roundworms
+doripenem	intra-abdominal infections
+doripenem	urinary tract infections
+doripenem	pyelonephritis
+dorzolamide	intraocular pressure
+dorzolamide	glaucoma
+dosulepin	depression
+doxapram	respiratory depression
+doxapram	central nervous system depression
+doxapram	acute hypercapnia (AHC)
+doxazosin	benign prostatic hyperplasia (BPH)
+doxazosin	hypertension
+doxepin	depression
+doxepin	anxiety
+doxercalciferol	chronic kidney disease (CKD)
+doxercalciferol	hyperparathyroidism
+doxifluridine	colorectal cancer
+doxofylline	asthma
+doxorubicin	acute lymphoblastic leukemia (ALL)
+doxorubicin	acute myeloid leukemia (AML)
+doxorubicin	Wilm's tumor
+doxorubicin	breast cancer
+doxorubicin	ovarian cancer
+doxorubicin	Hodgkin's lymphoma
+doxorubicin	bladder cancer
+doxorubicin	multiple myeloma
+doxycycline	periodontitis
+doxylamine	sedative
+drofenine	spasms
+dromostanolone-propionate	breast cancer
+dronedarone	atrial fibrillation (AF)
+droperidol	nausea
+droperidol	vomiting
+dropropizine	cough suppressant
+drospirenone	contraceptive
+drotaverine	labor induction
+droxicam	rheumatoid arthritis
+droxicam	osteoarthritis
+droxidopa	hypertension
+droxidopa	Parkinson's Disease
+duloxetine	depression
+duloxetine	generalized anxiety disorder (GAD)
+duloxetine	muscle pain
+duloxetine	peripheral neuropathy
+dutasteride	benign prostatic hyperplasia (BPH)
+dyclonine	local anesthetic
+dydrogesterone	infertility
+dyphylline	asthma
+dyphylline	bronchitis
+dyphylline	emphysema
+ebastine	allergic rhinitis
+ebastine	urticaria
+ecabet	dry eye syndrome
+ecamsule-triethanolamine	skin protectant
+ecamsule-triethanolamine	sunscreen lotion
+econazole	tinea pedis
+econazole	tinea cruris
+econazole	tinea corporis
+econazole	tinea versicolor
+econazole	cutaneous candidiasis
+edaravone	stroke
+edoxaban	stroke
+edoxaban	pulmonary embolism (PE)
+edoxaban	systemic embolism
+edoxaban	deep vein thrombosis (DVT)
+edoxaban	atrial fibrillation (AF)
+edoxudine	virus herpes simplex (HSV)
+edrophonium	myasthenia gravis
+efavirenz	human immunodeficiency virus (HIV-1)
+efinaconazole	onychomycosis
+eflornithine	facial hair reduction
+efonidipine	hypertension
+elbasvir	hepatitis C
+eletriptan	migraine headache
+eliglustat	Gaucher disease
+eltrombopag	anemia
+eltrombopag	hepatitis C
+eltrombopag	thrombocytopenia
+eluxadoline	irritable bowel syndrome
+elvitegravir	human immunodeficiency virus (HIV-1)
+emedastine	conjunctivitis
+emorfazone	mouth inflammation
+empagliflozin	diabetes mellitus
+emtricitabine	human immunodeficiency virus (HIV-1)
+enalapril	hypertension
+enalapril	congestive heart failure
+enalapril	left ventricular systolic dysfunction (LVSD)
+enalaprilat	hypertension
+enasidenib	acute myeloid leukemia (AML)
+enbucrilate	skin lacerations
+enbucrilate	tissue adhesive
+encorafenib	melanoma
+enflurane	anesthetic
+enilconazole	skin infections
+enocitabine	acute myeloid leukemia (AML)
+enoxacin	urinary tract infections
+enoxacin	gonorrhea
+enoximone	congestive heart failure
+enoxolone	peptic ulcer disease (PUD)
+enoxolone	common cold
+enrofloxacin	gram-negative bacterial infections
+entacapone	Parkinson's Disease
+entecavir	hepatitis B
+entrectinib	non-small cell lung cancer (NSCLC)
+enzalutamide	prostate cancer
+epalrestat	diabetic nephropathy
+eperisone	amyotrophic lateral sclerosis (ALS)
+eperisone	spasms
+eperisone	head injury
+eperisone	spinal injury
+ephedrine	hypotension
+ephedrine	asthma
+ephedrine	narcolepsy
+ephedrine	obesity
+ephedrine-(racemic)	hypotension
+ephedrine-(racemic)	asthma
+ephedrine-(racemic)	narcolepsy
+ephedrine-(racemic)	obesity
+epinastine	conjunctivitis
+epinephrine	cardiac arrest
+epinephrine	anaphylactic shock
+epinephrine	asthma
+epirizole	pain relief
+epirubicin	breast cancer
+epitiostanol	breast cancer
+eplerenone	congestive heart failure
+eplerenone	hypertension
+epomediol	itching
+epoprostenol	hypertension
+eprazinone	bronchospasm
+eprinomectin	gastrointestinal roundworms
+eprinomectin	lungworms
+eprobemide	depression
+eprosartan	hypertension
+eptifibatide	acute coronary syndrome (ACS)
+eptifibatide	percutaneous coronary intervention (PCI)
+erdosteine	bronchitis
+erdosteine	cough suppressant
+erdosteine	chronic obstructive pulmonary disease (COPD)
+erdosteine	respiratory tract infections
+ergocalciferol	hypoparathyroidism
+ergocalciferol	rickets
+ergocalciferol	hypophosphatemia
+ergonovine	postpartum hemorrhage (PPH)
+ergotamine	migraine headache
+eribulin	breast cancer
+erlotinib	non-small cell lung cancer (NSCLC)
+erlotinib	pancreatic cancer
+ertapenem	intra-abdominal infections
+ertapenem	skin infections
+ertapenem	pneumonia
+ertapenem	urinary tract infections
+ertapenem	gynecologic infections
+ertapenem	postpartum endomyometritis
+ertugliflozin	diabetes mellitus
+erythromycin	listeria
+erythromycin	respiratory tract infections
+erythromycin	skin infections
+erythromycin	syphilis
+erythromycin	amebiasis
+erythromycin	pelvic inflammatory disease
+erythromycin	chlamydia
+erythromycin	diphtheria
+erythromycin	erythrasma
+erythromycin-estolate	listeria
+erythromycin-estolate	respiratory tract infections
+erythromycin-estolate	skin infections
+erythromycin-estolate	syphilis
+erythromycin-estolate	amebiasis
+erythromycin-estolate	pelvic inflammatory disease
+erythromycin-estolate	chlamydia
+erythromycin-estolate	diphtheria
+erythromycin-estolate	erythrasma
+erythromycin-ethylsuccinate	listeria
+erythromycin-ethylsuccinate	respiratory tract infections
+erythromycin-ethylsuccinate	skin infections
+erythromycin-ethylsuccinate	syphilis
+erythromycin-ethylsuccinate	amebiasis
+erythromycin-ethylsuccinate	pelvic inflammatory disease
+erythromycin-ethylsuccinate	chlamydia
+erythromycin-ethylsuccinate	diphtheria
+erythromycin-ethylsuccinate	erythrasma
+escin	varicose veins
+escitalopram	depression
+escitalopram	generalized anxiety disorder (GAD)
+eslicarbazepine-acetate	seizures
+esmolol	ventricular tachycardia (VT)
+esmolol	hypertension
+esomeprazole	gastroesophageal reflux disease (GERD)
+esomeprazole	Zollinger-Ellison syndrome
+esomeprazole	peptic ulcer disease (PUD)
+estradiol	contraceptive
+estradiol-acetate	menopause
+estradiol-acetate	vaginal atrophy
+estradiol-cypionate	hypoestrogenism
+estradiol-cypionate	menopause
+estradiol-valerate	prostate cancer
+estradiol-valerate	hypoestrogenism
+estradiol-valerate	menopause
+estradiol-valerate	vaginal atrophy
+estramustine	prostate cancer
+estramustine-phosphate	prostate cancer
+estriol	menopause
+estriol	vaginal atrophy
+estriol	urinary tract infections
+estrone	menopause
+estropipate	osteoporosis
+estropipate	menopause
+estropipate	vaginal atrophy
+estropipate	hypoestrogenism
+etacrynic-acid	hypertension
+etacrynic-acid	congestive heart failure
+etacrynic-acid	edema
+etacrynic-acid	hepatic cirrhosis
+etacrynic-acid	chronic renal failure
+etacrynic-acid	nephrotic syndrome
+etamsylate	hemorrhage
+ethacizin	ventricular tachycardia (VT)
+ethacizin	Wolff-Parkinson-White Syndrome (WPW)
+ethambutol	tuberculosis
+ethanolamine-oleate	esophageal varices
+ethaverine	muscle relaxant
+ethaverine	spasms
+ethenzamide	headache
+ethenzamide	fever
+ethenzamide	common cold
+ethinyl-estradiol	contraceptive
+ethionamide	tuberculosis
+ethisterone	amenorrhea
+ethopabate	coccidiosis
+ethosuximide	epilepsy
+ethotoin	seizures
+ethoxzolamide	glaucoma
+ethoxzolamide	duodenal ulcer disease
+ethylenediaminetetraacetic-acid	metal toxicity
+ethynodiol-diacetate	contraceptive
+etidronic-acid	Paget's disease
+etidronic-acid	heterotopic ossification
+etifoxine	anxiety
+etilefrine	headache
+etilefrine	nasal congestion
+etilefrine	fever
+etilefrine	cough suppressant
+etilefrine	common cold
+etizolam	insomnia
+etizolam	anxiety
+etodolac	osteoarthritis
+etodolac	rheumatoid arthritis
+etofenamate	muscle pain
+etofenamate	joint pain
+etofibrate	hypertriglyceridemia
+etofylline	asthma
+etofylline	bronchitis
+etofylline-clofibrate	hyperlipidemia
+etomidate	general anaesthetic
+etonogestrel	contraceptive
+etoposide	non-small cell lung cancer (NSCLC)
+etoposide-phosphate	testicular carcinoma
+etoposide-phosphate	small cell lung cancer
+etoricoxib	rheumatoid arthritis
+etoricoxib	psoriatic arthritis
+etoricoxib	osteoarthritis
+etoricoxib	gout
+etoricoxib	ankylosing spondylitis
+etravirine	human immunodeficiency virus (HIV-1)
+eucalyptol	gingivitis
+eugenol	toothache
+everolimus	breast cancer
+everolimus	neuroendocrine tumors of pancreatic origin (PNET)
+everolimus	renal cell carcinoma (RCC)
+everolimus	subependymal giant cell astrocytoma (SEGA)
+everolimus	tuberous sclerosis complex (TSC)
+everolimus	renal angiomyolipoma
+exemestane	breast cancer
+exenatide	diabetes mellitus
+ezetimibe	hyperlipidemia
+ezetimibe	hypercholesterolemia
+ezetimibe	sitosterolemia
+fadrozole	breast cancer
+falecalcitriol	hyperparathyroidism
+famciclovir	cold sore
+famciclovir	genitial herpes
+famciclovir	shingles
+famotidine	heartburn
+faropenem	pneumonia
+faropenem	bronchitis
+faropenem	skin infections
+faropenem	urinary tract infections
+faropenem	sinusitis
+faropenem-medoxomil	sinusitis
+faropenem-medoxomil	pneumonia
+faropenem-medoxomil	bronchitis
+faropenem-medoxomil	skin infections
+faropenem-medoxomil	urinary tract infections
+fasudil	cerebral vasospasm
+febuxostat	hyperuricemia
+fedratinib	myelofibrosis
+felbamate	epilepsy
+felbinac	rheumatoid arthritis
+felbinac	muscle pain
+felodipine	hypertension
+fenbendazole	gastrointestinal parasites
+fenbendazole	gastrointestinal roundworms
+fenbufen	pain relief
+fenigam	posttraumatic stress disorder
+fenigam	anxiety
+fenigam	depression
+fenipentol	bile stimulation
+fenofibrate	hypercholesterolemia
+fenofibrate	hypertriglyceridemia
+fenofibric-acid	dyslipidemia
+fenoldopam	hypertension
+fenoprofen	rheumatoid arthritis
+fenoprofen	osteoarthritis
+fenoverine	spasms
+fenspiride	asthma
+fenspiride	otitis
+fenspiride	sinusitis
+fenspiride	rhinopharyngitis
+fenspiride	laryngitis
+fentiazac	muscle pain
+fentiazac	joint pain
+fenticonazole	vulvovaginal candidiasis
+fesoterodine	urinary incontinence
+fexofenadine	allergic rhinitis
+fexofenadine	urticaria
+fidaxomicin	diarrhea
+fimasartan	hypertension
+fimasartan	congestive heart failure
+finafloxacin	intra-abdominal infections
+finafloxacin	chronic obstructive pulmonary disease (COPD)
+finafloxacin	cystic fibrosis
+finasteride	androgenetic alopecia
+fingolimod	multiple sclerosis
+fipronil	flea control
+firocoxib	osteoarthritis
+flavoxate	urinary incontinence
+flavoxate	interstitial cystitis (IC)
+flavoxate	urethritis
+flavoxate	prostatitis
+flecainide	ventricular tachycardia (VT)
+flecainide	atrial fibrillation (AF)
+flecainide	ventricular arrhythmias
+fleroxacin	gonorrhea
+fleroxacin	enteritis
+fleroxacin	diarrhea
+fleroxacin	respiratory tract infections
+flibanserin	hypoactive sexual desire disorder
+floctafenine	pain relief
+flopropione	spasms
+florfenicol	bovine respiratory disease (BRD)
+floxuridine	colorectal cancer
+flubendazole	gastrointestinal parasites
+flucloxacillin	gram-positive bacterial infections
+flucloxacillin	tonsillitis
+flucloxacillin	sinusitis
+flucloxacillin	pneumonia
+flucloxacillin	eczema
+flucloxacillin	endocarditis
+flucloxacillin	meningitis
+flucloxacillin	enteritis
+flucloxacillin	bacterial septicemia
+fluconazole	esophageal candidiasis
+fluconazole	meningitis
+flucytosine	bacterial septicemia
+flucytosine	endocarditis
+flucytosine	urinary tract infections
+flucytosine	meningitis
+fludarabine	chronic lymphocytic leukemia (CLL)
+fludarabine-phosphate	chronic lymphocytic leukemia (CLL)
+fludrocortisone-acetate	Addison's disease
+fludrocortisone-acetate	adrenogenital syndrome
+fludroxycortide	skin infections
+fludroxycortide	psoriasis
+flumazenil	sedative
+flumequine	urinary tract infections
+flumethasone	otitis
+flumethasone	ear infections
+flumethasone	corticosteroid-responsive dermatoses
+flumethasone-pivalate	allergic rhinitis
+flunarizine	migraine headache
+flunarizine	vertigo
+flunarizine	peripheral artery disease (PAD)
+flunisolide	allergic rhinitis
+flunixin-meglumin	bovine respiratory disease (BRD)
+fluocinolone-acetonide	seborrheic dermatitis
+fluocinonide	seborrheic dermatitis
+fluocinonide	eczema
+fluorescein	ophthalmology diagnostic
+fluorometholone	eye inflammation
+fluorometholone-acetate	eye inflammation
+fluoxetine	depression
+fluoxetine	obsessive compulsive disorder (OCD)
+fluoxetine	bulimia nervosa
+fluoxetine	panic disorders
+fluoxetine	bipolar disorder
+flupentixol	schizophrenia
+flupentixol	depression
+fluphenazine	schizophrenia
+fluphenazine-decanoate	schizophrenia
+flupirtine	pain relief
+flurbiprofen-(+/-)	rheumatoid arthritis
+flurbiprofen-(+/-)	osteoarthritis
+flurbiprofen-(s)-(+)	rheumatoid arthritis
+flurbiprofen-(s)-(+)	osteoarthritis
+fluspirilene	schizophrenia
+flutamide	prostate cancer
+fluticasone-propionate	corticosteroid-responsive dermatoses
+flutrimazole	mycosis
+fluvastatin	hypercholesterolemia
+fluvastatin	congenital heart defects
+fluvoxamine	obsessive compulsive disorder (OCD)
+folic-acid	megaloblastic anemia
+fomepizole	poison antidote
+fomocaine	local anesthetic
+fondaparinux	deep vein thrombosis (DVT)
+formestane	breast cancer
+formoterol	asthma
+formoterol	chronic obstructive pulmonary disease (COPD)
+formoterol	bronchospasm
+forodesine	peripheral T-cell lymphoma (PTCL)
+fosamprenavir	human immunodeficiency virus (HIV-1)
+fosaprepitant-dimeglumine	nausea
+fosaprepitant-dimeglumine	vomiting
+foscarnet	cytomegalovirus retinitis
+foscarnet	acquired immunodeficiency syndrome (AIDS)
+foscarnet	virus herpes simplex (HSV)
+fosfestrol	prostate cancer
+fosfomycin	urinary tract infections
+fosfosal	pain relief
+fosinopril	hypertension
+fosinopril	congestive heart failure
+fosinoprilat	hypertension
+fosphenytoin	epilepsy
+fosphenytoin	seizures
+fostamatinib	chronic immune thrombocytopenia (ITP)
+fotemustine	melanoma
+frovatriptan	migraine headache
+fruquintinib	colorectal cancer
+ftorafur	colorectal cancer
+fudosteine	chest congestion
+fulvestrant	breast cancer
+fumagillin	microsporidiosis
+furaltadone	gram-negative bacterial infections
+furazolidone	diarrhea
+furazolidone	enteritis
+furazolidone	cholera
+furosemide	edema
+furosemide	hypertension
+furosemide	congestive heart failure
+furosemide	nephrotic syndrome
+fursultiamine	thiamine deficiency
+fusidic-acid	acne vulgaris (AV)
+gabapentin	virus herpes simplex (HSV)
+gabapentin	shingles
+gabapentin	seizures
+gabapentin	restless leg syndrome
+gabapentin-enacarbil	restless leg syndrome
+gabapentin-enacarbil	postherpetic neuralgia
+gabexate	pancreatitis
+gadobutrol	MRI contrast agent
+gadodiamide	MRI contrast agent
+gadopentetic-acid	contrast agent
+gadoterate-meglumine	MRI contrast agent
+gadoteridol	MRI contrast agent
+galantamine	senile dementia
+gallamine-triethiodide	muscle relaxant
+gallopamil	hypertension
+gallopamil	cardiac arrythmia
+ganciclovir	cytomegalovirus (CMV)
+garenoxacin	respiratory tract infections
+gefitinib	non-small cell lung cancer (NSCLC)
+gemcitabine	ovarian cancer
+gemcitabine	breast cancer
+gemcitabine	non-small cell lung cancer (NSCLC)
+gemcitabine	pancreatic cancer
+gemfibrozil	hyperlipidemia
+gemfibrozil	coronary heart disease
+gemifloxacin	bronchitis
+gemifloxacin	pneumonia
+gentamycin	bone and joint infections
+gentamycin	endocarditis
+gentamycin	pelvic inflammatory disease
+gentamycin	meningitis
+gentamycin	pneumonia
+gentamycin	urinary tract infections
+gentamycin	sepsis
+gepefrine	hypotension
+gestodene	contraceptive
+gestrinone	endometriosis
+gimeracil	gastric adenocarcinoma
+glasdegib	acute myeloid leukemia (AML)
+glecaprevir	hepatitis C
+gliclazide	diabetes mellitus
+glimepiride	diabetes mellitus
+glipizide	diabetes mellitus
+glipizide	hyperglycemia
+gliquidone	diabetes mellitus
+glucosamine	muscle pain
+glucosamine	rheumatoid arthritis
+glucosamine	joint pain
+glucosamine	backache
+glyburide	diabetes mellitus
+glyburide	hyperglycemia
+glycopyrrolate	peptic ulcer disease (PUD)
+gonadorelin	cystic ovaries
+gonadorelin	reproductive synchrony
+goserelin-acetate	prostate cancer
+goserelin-acetate	breast cancer
+goserelin-acetate	endometriosis
+gramicidin	first-aid antibiotic
+granisetron	nausea
+granisetron	vomiting
+grapiprant	osteoarthritis
+grazoprevir	hepatitis C
+griseofulvin	ringworm
+griseofulvin	tinea pedis
+guacetisal	cough suppressant
+guaiacol	cough suppressant
+guaifenesin	cough suppressant
+guanaben-acetate	hypertension
+guanadrel	hypertension
+guanethidine	hypertension
+guanfacine	hypertension
+guanidine	Lambert-Eaton myasthenic syndrome (LEMS)
+halazone	disinfectant
+halcinonide	corticosteroid-responsive dermatoses
+halobetasol-propionate	corticosteroid-responsive dermatoses
+halofantrine	malaria
+halofuginone	scleroderma
+haloperidol	schizophrenia
+haloperidol	Tourette's disorder
+haloperidol-decanoate	schizophrenia
+haloprogin	tinea pedis
+halothane	general anaesthetic
+hematoporphyrin	depression
+hematoporphyrin	psychosis
+hemin	acute intermittent porphyria (AIP)
+hemin	hypertension
+hemin	ventricular tachycardia (VT)
+heptaminol	hypotension
+hetacillin	mastitis
+hexachlorophene	gram-positive bacterial infections
+hexaminolevulinate	diagnostic agent
+hexestrol	hypoestrogenism
+hexetidine	pharyngitis
+hexetidine	meningitis
+hexetidine	laryngitis
+hexetidine	gingivitis
+hexetidine	ulcerative colitis
+hexoprenaline	asthma
+hexylcaine	local anesthetic
+hexylresorcinol	skin infections
+hexylresorcinol	first-aid antiseptic
+histamine	allergic rhinitis
+homatropine	uveal tract inflammation
+homatropine	pupil dilation
+homatropine-methylbromide	uveal tract inflammation
+homochlorcyclizine	allergic rhinitis
+homoharringtonine	chronic myeloid leukemia (CML)
+hyaluronic-acid	osteoarthritis
+hyaluronic-acid	interstitial cystitis (IC)
+hycanthone	schistosomiasis
+hydralazine	hypertension
+hydrochlorothiazide	hypertension
+hydrochlorothiazide	congestive heart failure
+hydrocortisone	eczema
+hydrocortisone	psoriasis
+hydrocortisone	seborrheic dermatitis
+hydrocortisone	itching
+hydrocortisone-acetate	corticosteroid-responsive dermatoses
+hydrocortisone-butyrate	corticosteroid-responsive dermatoses
+hydrocortisone-butyrate	eczema
+hydrocortisone-phosphate	asthma
+hydrocortisone-phosphate	nausea
+hydrocortisone-phosphate	vomiting
+hydrocortisone-phosphate	multiple myeloma
+hydrocortisone-phosphate	contact dermatitis
+hydrocortisone-phosphate	enteritis
+hydrocortisone-phosphate	colitis
+hydrocortisone-valerate	corticosteroid-responsive dermatoses
+hydroflumethiazide	edema
+hydroflumethiazide	congestive heart failure
+hydroflumethiazide	hepatic cirrhosis
+hydroflumethiazide	nephrotic syndrome
+hydroflumethiazide	chronic renal failure
+hydroflumethiazide	acute glomerulonephritis (AGN)
+hydroflumethiazide	hypertension
+hydroquinidine	cardiac arrythmia
+hydroquinone	dyschromia
+hydroxyamphetamine	mydriasis
+hydroxychloroquine	malaria
+hydroxyprogesterone	spontaneous preterm birth
+hydroxyurea	chronic myeloid leukemia (CML)
+hydroxyurea	head and neck squamous cell carcinoma (HNSCC)
+hydroxyzine	anxiety
+hydroxyzine	urticaria
+hydroxyzine	itching
+hydroxyzine	dermatosis
+hyoscyamine	peptic ulcer disease (PUD)
+hyoscyamine	acute abdominal visceral spasm
+hyoscyamine	ulcerative colitis
+hyoscyamine	interstitial cystitis (IC)
+hyoscyamine	enterocolitis
+hyoscyamine	irritable bowel syndrome
+hyoscyamine	tremors
+hyoscyamine	allergic rhinitis
+ibandronate	osteoporosis
+ibrutinib	chronic lymphocytic leukemia (CLL)
+ibrutinib	mantle cell lymphoma (MCL)
+ibrutinib	Waldenstrom's macroglobulinemia (WM)
+ibudilast	asthma
+ibudilast	stroke
+ibuprofen	headache
+ibuprofen	muscle pain
+ibuprofen	rheumatoid arthritis
+ibuprofen	backache
+ibuprofen	common cold
+ibuprofen	menstrual pain
+ibuprofen	fever
+ibuprofen	toothache
+ibuprofen-(s)	pain relief
+ibuprofen-lysine	patent ductus arteriosus (PDA)
+ibuprofen-piconol	pain relief
+ibuproxam	fever
+ibuproxam	joint inflammation
+ibuproxam	pain relief
+ibutilide	atrial fibrillation (AF)
+icatibant-acetate	angioedema
+icosapent	hypertriglyceridemia
+icotinib	non-small cell lung cancer (NSCLC)
+idarubicin	acute myeloid leukemia (AML)
+idebenone	Alzheimer's disease
+idebenone	Friedreich's ataxia
+idebenone	Leber hereditary optic neuropathy (LHON)
+idelalisib	chronic lymphocytic leukemia (CLL)
+idoxuridine	virus herpes simplex (HSV)
+ifosfamide	testicular carcinoma
+ifosfamide	hemorrhagic cystitis
+iguratimod	rheumatoid arthritis
+ilaprazole	gastroesophageal reflux disease (GERD)
+iloperidone	schizophrenia
+iloprost	pulmonary arterial hypertension (PAH)
+imatinib	chronic myeloid leukemia (CML)
+imatinib	acute lymphoblastic leukemia (ALL)
+imatinib	myelodysplastic diseases (MDS)
+imatinib	aggressive systemic mastocytosis (ASM)
+imatinib	hypereosinophilic syndrome (HES)
+imatinib	chronic eosinophilic leukemia (CEL)
+imatinib	dermatofibrosarcoma protuberans (DFSP)
+imatinib	gastrointestinal stromal tumors (GIST)
+imidafenacin	spasms
+imidapril	hypertension
+imidapril	congestive heart failure
+imipenem	pneumonia
+imipenem	urinary tract infections
+imipenem	intra-abdominal infections
+imipenem	gynecologic infections
+imipenem	bacterial septicemia
+imipenem	bone and joint infections
+imipenem	skin infections
+imipenem	endocarditis
+imipramine	depression
+imipramine	nocturnal enuresis
+imiquimod	actinic keratosis (AK)
+imiquimod	genital warts
+imiquimod	basal cell carcinoma (BCC)
+indacaterol	chronic obstructive pulmonary disease (COPD)
+indapamide	hypertension
+indapamide	congestive heart failure
+indinavir	human immunodeficiency virus (HIV-1)
+indobufen	thrombosis
+indocyanine-green	vascular imaging agent
+indomethacin	rheumatoid arthritis
+indomethacin	ankylosing spondylitis
+indomethacin	osteoarthritis
+indomethacin	bursitis
+indomethacin	tendinitis
+indoramin	benign prostatic hyperplasia (BPH)
+indoramin	hypertension
+ingenol	keratosis
+ingenol-mebutate	actinic keratosis (AK)
+inositol	polycystic ovary syndrom (PCOS)
+inositol-hexanicotinate	statis dermatitis
+inositol-hexanicotinate	claudication
+inositol-hexanicotinate	Raynaud's disease
+inositol-hexanicotinate	hypertension
+inositol-hexanicotinate	insomnia
+inositol-hexanicotinate	atherosclerosis
+inositol-hexanicotinate	restless leg syndrome
+inositol-hexanicotinate	schizophrenia
+inositol-hexanicotinate	psoriasis
+inositol-hexanicotinate	acne vulgaris (AV)
+iobenguane	neuroblastoma
+iobenguane	congestive heart failure
+iobenguane	pheochromocytoma
+iocetamic-acid	contrast agent
+iodipamide	contrast agent
+iodixanol	contrast agent
+iodoquinol	amebiasis
+iohexol	contrast agent
+iopamidol	contrast agent
+iopodic-acid	contrast agent
+iopromide	contrast agent
+ioversol	contrast agent
+ioxaglic-acid	contrast agent
+ioxilan	angiography
+ipragliflozin-l-proline	diabetes mellitus
+ipratropium	bronchospasm
+ipratropium	chronic obstructive pulmonary disease (COPD)
+ipratropium	bronchitis
+ipratropium	emphysema
+ipriflavone	osteoporosis
+irbesartan	hypertension
+irbesartan	diabetic nephropathy
+irinotecan	colorectal cancer
+irsogladine	peptic ulcer disease (PUD)
+isepamicin	pneumonia
+isepamicin	peritonitis
+isocarboxazid	depression
+isoconazole	gram-positive bacterial infections
+isoetharine	bronchospasm
+isoetharine	asthma
+isoflurane	general anaesthetic
+isoflurophate	glaucoma
+isometheptene-mucate	headache
+isoniazid	tuberculosis
+isopentyl-4-methoxycinnamate	sunscreen lotion
+isoprenaline	bradycardia
+isoprenaline	heart block
+isoprenaline	asthma
+isopropamide-iodide	peptic ulcer disease (PUD)
+isopropamide-iodide	gastrointestinal acidosis
+isopropyl-myristate	cosmetic
+isopropyl-palmitate	cosmetic
+isosorbide	angina pectoris
+isosorbide	coronary artery disease (CAD)
+isosorbide-dinitrate	angina pectoris
+isosorbide-dinitrate	coronary artery disease (CAD)
+isosorbide-mononitrate	angina pectoris
+isosorbide-mononitrate	coronary artery disease (CAD)
+isotretinoin	acne vulgaris (AV)
+isoxsuprine	Raynaud's disease
+isoxsuprine	arteriosclerosis
+isoxsuprine	Buerger's disease
+isradipine	hypertension
+istradefylline	Parkinson's Disease
+istradefylline	dyskinesia
+itopride	dyspepsia
+itopride	gastroparesis
+itopride	heartburn
+itopride	nausea
+itopride	vomiting
+itopride	anorexia
+itraconazole	onychomycosis
+itraconazole	histoplasmosis
+itraconazole	blastomycosis
+itraconazole	aspergillosis
+ivabradine	angina pectoris
+ivacaftor	cystic fibrosis
+ivermectin	gastrointestinal roundworms
+ivermectin	lungworms
+ivermectin	cattle grubs
+ivermectin	mites
+ivermectin	lice
+ivermectin	horn flies
+ivosidenib	acute myeloid leukemia (AML)
+ixabepilone	breast cancer
+ixazomib	multiple myeloma
+ixazomib-citrate	multiple myeloma
+josamycin	bronchitis
+kanamycin	gram-negative bacterial infections
+ketanserin	hypertension
+ketoconazole	seborrheic dermatitis
+ketoprofen	rheumatoid arthritis
+ketoprofen	osteoarthritis
+ketorolac	pain relief
+ketotifen	itching
+kinetin	sunburn
+labetalol	hypertension
+lacidipine	hypertension
+lacitol	constipation
+lactulose	portal-systemic encephalopathy (PSE)
+lafutidine	duodenal ulcer disease
+lafutidine	peptic ulcer disease (PUD)
+lamivudine	human immunodeficiency virus (HIV-1)
+lamivudine	acquired immunodeficiency syndrome (AIDS)
+lamivudine	hepatitis B
+lamotrigine	epilepsy
+lamotrigine	bipolar disorder
+landiolol	cardiac arrythmia
+lanoconazole	fungal infection
+lansoprazole	heartburn
+lapatinib	breast cancer
+l-arginine	congestive heart failure
+l-arginine	hypertension
+l-arginine	coronary artery disease (CAD)
+l-arginine	claudication
+l-arginine	senile dementia
+l-arginine	erectile dysfunction
+l-arginine	infertility
+l-arginine	common cold
+laropiprant	cholesterol
+lasalocid	coccidiosis
+lasofoxifene	osteoporosis
+lasofoxifene	breast cancer
+latanoprost	ocular hypertension
+latanoprost	glaucoma
+l-citrulline	hypertension
+l-citrulline	erectile dysfunction
+l-cysteine	osteoarthritis
+l-cysteine	rheumatoid arthritis
+lcz696	angioedema
+lcz696	hypotension
+ledipasvir	hepatitis C
+leflunomide	rheumatoid arthritis
+lenalidomide	multiple myeloma
+lenalidomide	mantle cell lymphoma (MCL)
+lenalidomide	myelodysplastic diseases (MDS)
+lenvatinib	thyroid cancer
+lercanidipine	hypertension
+lesinurad	gout
+letermovir	cytomegalovirus (CMV)
+letosteine	bronchitis
+letosteine	pneumonia
+letrozole	breast cancer
+leucovorin	osteosarcoma
+leuprolide	prostate cancer
+levalbuterol	bronchospasm
+levallorphan	respiratory depression
+levamlodipine	hypertension
+levetiracetam	seizures
+levobetaxolol	intraocular pressure
+levobetaxolol	glaucoma
+levobunolol	glaucoma
+levobunolol	ocular hypertension
+levocabastine	conjunctivitis
+levocarnitine	carnitine deficiency
+levocarnitine-propionate	peripheral neuropathy
+levocarnitine-propionate	carnitine deficiency
+levocetirizine	allergic rhinitis
+levocetirizine	urticaria
+levodopa	Parkinson's Disease
+levodropropizine	cough suppressant
+levofloxacin	pneumonia
+levofloxacin	sinusitis
+levofloxacin	bronchitis
+levofloxacin	skin infections
+levofloxacin	prostatitis
+levofloxacin	urinary tract infections
+levofloxacin	pyelonephritis
+levofloxacin	anthrax
+levofloxacin	plague
+levomenol	spasms
+levomenol	skin infections
+levomenthol	pain relief
+levomepromazine	psychosis
+levomepromazine	schizophrenia
+levomepromazine	bipolar disorder
+levomepromazine	nausea
+levomepromazine	insomnia
+levonordefrin	hemorrhage
+levonorgestrel	contraceptive
+levopropoxyphene	cough suppressant
+levosimendan	congestive heart failure
+levosulpiride	schizophrenia
+levosulpiride	psychosis
+levosulpiride	anxiety
+levosulpiride	vertigo
+levosulpiride	dyspepsia
+levosulpiride	irritable bowel syndrome
+levosulpiride	premature ejaculation (PE)
+levothyroxine	myxedema coma
+l-glutamine	diarrhea
+l-glutamine	mucositis
+l-glutamine	muscle pain
+l-glutamine	joint pain
+l-glutamine	peptic ulcer disease (PUD)
+l-glutamine	ulcerative colitis
+l-glutamine	Crohn's disease
+l-glutamine	anxiety
+l-glutamine	insomnia
+lidamidine	diarrhea
+lidocaine	itching
+lidocaine	eczema
+lidocaine	hemorrhage
+lidoflazine	coronary artery disease (CAD)
+lifitegrast	dry eye syndrome
+limaprost-alfadex	claudication
+linaclotide	irritable bowel syndrome
+linaclotide	constipation
+linagliptin	diabetes mellitus
+lincomycin	enteritis
+lindane	scabies
+linezolid	pneumonia
+linezolid	skin infections
+linsidomine	erectile dysfunction
+liothyronine	hypothyroidism
+liothyronine	myxedema coma
+liraglutide	weight-loss aid
+liraglutide	diabetes mellitus
+liranaftate	fungal infection
+lisadimate	sunscreen lotion
+lisinopril	hypertension
+lisinopril	congestive heart failure
+lisinopril	diabetes mellitus
+lisuride	Parkinson's Disease
+lithium-citrate	bipolar disorder
+lithium-citrate	depression
+l-methionine	asthma
+l-methionine	allergic rhinitis
+l-methionine	depression
+l-methionine	Parkinson's Disease
+l-methionine	schizophrenia
+lobeline	smoking cessation
+lobenzarit	rheumatoid arthritis
+lodoxamide	vernal keratoconjunctivitis (VKC)
+lofepramine	depression
+lofexidine	opioid withdrawal
+lomefloxacin	respiratory tract infections
+lomefloxacin	urinary tract infections
+lomerizine	migraine headache
+lomitapide	hypercholesterolemia
+lomustine	Hodgkin's lymphoma
+lomustine	brain tumors
+loperamide	diarrhea
+lopinavir	human immunodeficiency virus (HIV-1)
+loracarbef	ear infections
+loracarbef	laryngitis
+loracarbef	bronchitis
+loracarbef	pneumonia
+loracarbef	urinary tract infections
+loracarbef	skin infections
+loratadine	allergic rhinitis
+loratadine	itching
+lorlatinib	non-small cell lung cancer (NSCLC)
+lornoxicam	osteoarthritis
+lornoxicam	sciata
+losartan	hypertension
+losartan	diabetic nephropathy
+losartan	hypertension
+loteprednol	conjunctivitis
+lovastatin	coronary heart disease
+lovastatin	myocardial infarction
+lovastatin	hypercholesterolemia
+loxapine	schizophrenia
+loxoprofen	pain relief
+lubiprostone	constipation
+lubiprostone	irritable bowel syndrome
+lufenuron	flea control
+luliconazole	tinea pedis
+luliconazole	tinea cruris
+luliconazole	tinea corporis
+lumacaftor	cystic fibrosis
+lumefantrine	malaria
+lurasidone	schizophrenia
+lutein	macular degeneration
+lutein	cataracts
+lutein	retinitis pigmentosa (RP)
+lymecycline	acne vulgaris (AV)
+lynestrenol	contraceptive
+lypressin	central diabetes insipidus
+mabuprofen	pain relief
+mabuterol	asthma
+macitentan	contraceptive
+mafenide	first-aid antibiotic
+mafenide	skin infections
+malathion	lice
+malotilate	hepatic cirrhosis
+maltobionic-acid	cosmetic
+mangafodipir	contrast agent
+manidipine	hypertension
+mannitol-d	intracranial pressure
+mannitol-d	intraocular pressure
+mannitol-d	constipation
+maprotiline	depression
+maprotiline	dysthymic disorder
+maraviroc	human immunodeficiency virus (HIV-1)
+marbofloxacin	gram-negative bacterial infections
+maropitant	vomiting
+masitinib	mastocytoma
+masoprocol	actinic keratosis (AK)
+maxacalcitol	hyperparathyroidism
+mebendazole	pinworm
+mebendazole	whipworm
+mebendazole	hookworm
+mebendazole	ascariasis
+mebeverine	irritable bowel syndrome
+mebhydrolin	allergic rhinitis
+mebhydrolin	urticaria
+mebicar	anxiety
+mebrofenin	diagnostic agent
+mecamylamine	hypertension
+meclizine	nausea
+meclizine	vomiting
+meclizine	motion sickness
+meclocycline-sulfosalicylate	acne vulgaris (AV)
+meclocycline-sulfosalicylate	skin infections
+meclofenamic-acid	joint pain
+meclofenamic-acid	muscle pain
+meclofenamic-acid	rheumatoid arthritis
+meclofenamic-acid	primary dysmenorrhea (PD)
+meclofenoxate	senile dementia
+meclofenoxate	Alzheimer's disease
+mecysteine	chest congestion
+medetomidine	sedative
+medronic-acid	skeletal imaging agent
+medroxyprogesterone	contraceptive
+medroxyprogesterone-acetate	contraceptive
+medrysone	conjunctivitis
+medrysone	episcleritis
+mefenamic-acid	primary dysmenorrhea (PD)
+mefloquine	malaria
+megestrol	breast cancer
+megestrol-acetate	anorexia
+megestrol-acetate	cachexia
+melatonin	sleep cycle support
+meldonium	coronary artery disease (CAD)
+melevodopa	Parkinson's Disease
+meloxicam	osteoarthritis
+meloxicam	rheumatoid arthritis
+melperone	psychosis
+melphalan	multiple myeloma
+memantine	Alzheimer's disease
+memantine	senile dementia
+menadione	ulcerative colitis
+menadione	diarrhea
+menadione	headache
+menadione	varicose veins
+menadione	rheumatoid arthritis
+menatetrenone	osteoporosis
+menbutone	bile stimulation
+mepacrine	giardiasis
+mepenzolate	peptic ulcer disease (PUD)
+mephenesin	muscle relaxant
+mephentermine	hypotension
+mephenytoin	seizures
+mepivacaine	local anesthetic
+meptazinol	pain relief
+mepyramine	common cold
+mepyramine	menstrual pain
+mequinol	skin depigmentation
+merbromin	first-aid antiseptic
+mercaptopurine	acute lymphoblastic leukemia (ALL)
+meropenem	skin infections
+meropenem	intra-abdominal infections
+meropenem	meningitis
+mesalazine	ulcerative colitis
+mesalazine	inflammatory bowel disease
+mesna	hemorrhagic cystitis
+mesoridazine	schizophrenia
+mestinon	myasthenia gravis
+mestranol	contraceptive
+metaproterenol	bronchospasm
+metaproterenol	asthma
+metaproterenol	bronchitis
+metaproterenol	emphysema
+metaraminol	hypotension
+metaxalone	muscle pain
+metergoline	seasonal affective disorder
+metergoline	anxiety
+metergoline	hyperprolactinemia
+metformin	diabetes mellitus
+methacholine	bronchial hyperresponsiveness diagnostic
+methacycline	bronchitis
+methantheline	peptic ulcer disease (PUD)
+methantheline	irritable bowel syndrome
+methantheline	pancreatitis
+methantheline	dyskinesia
+methantheline	neurogenic bladder
+metharbital	epilepsy
+methazolamide	glaucoma
+methazolamide	intraocular pressure
+methenamine	urinary tract infections
+methicillin	gram-negative bacterial infections
+methicillin	gram-positive bacterial infections
+methimazole	hyperthyroidism
+methocarbamol	muscle relaxant
+methotrexate	gestational choriocarcinoma
+methotrexate	hydatidiform mole
+methotrexate	acute lymphoblastic leukemia (ALL)
+methotrexate	psoriasis
+methotrexate	rheumatoid arthritis
+methoxamine	hypotension
+methoxsalen	psoriasis
+methoxyflurane	general anaesthetic
+methoxyphenamine	asthma
+methscopolamine	peptic ulcer disease (PUD)
+methsuximide	seizures
+methyclothiazide	hypertension
+methyclothiazide	edema
+methyl-aminolevulinate	actinic keratosis (AK)
+methyldopa	hypertension
+methyldopate	hypertension
+methylene-blue	methemoglobinemia
+methylergometrine	postpartum hemorrhage (PPH)
+methylergometrine	migraine headache
+methylnaltrexone	constipation
+methylparaben	cosmetic
+methylprednisolone	hypercalcemia
+methylprednisolone	thyroiditis
+methylprednisolone	ankylosing spondylitis
+methylprednisolone	bursitis
+methylprednisolone	osteoarthritis
+methylprednisolone	psoriatic arthritis
+methylprednisolone	seborrheic dermatitis
+methylprednisolone	mycosis
+methylprednisolone	allergic rhinitis
+methylprednisolone	psoriasis
+methylprednisolone	anemia
+methylprednisolone	multiple sclerosis
+methylprednisolone	ulcerative colitis
+methylprednisolone	enteritis
+methylprednisolone-aceponate	congenital adrenal hyperplasia
+methylprednisolone-aceponate	thyroiditis
+methylprednisolone-aceponate	hypercalcemia
+methylprednisolone-aceponate	rheumatoid arthritis
+methylprednisolone-aceponate	bursitis
+methylprednisolone-aceponate	epicondylitis
+methylprednisolone-aceponate	allergic rhinitis
+methylprednisolone-aceponate	asthma
+methylprednisolone-aceponate	ulcerative colitis
+methylprednisolone-aceponate	enteritis
+methylprednisolone-aceponate	osteoarthritis
+methylprednisolone-aceponate	psoriasis
+methylprednisolone-aceponate	multiple sclerosis
+methylprednisolone-aceponate	anemia
+methylprednisolone-sodium-succinate	hypercalcemia
+methylprednisolone-sodium-succinate	thyroiditis
+methylprednisolone-sodium-succinate	osteoarthritis
+methylprednisolone-sodium-succinate	rheumatoid arthritis
+methylprednisolone-sodium-succinate	seborrheic dermatitis
+methylprednisolone-sodium-succinate	asthma
+methylprednisolone-sodium-succinate	allergic rhinitis
+methylprednisolone-sodium-succinate	shingles
+methylprednisolone-sodium-succinate	conjunctivitis
+methylprednisolone-sodium-succinate	ulcerative colitis
+methylprednisolone-sodium-succinate	enteritis
+methylprednisolone-sodium-succinate	anemia
+methylprednisolone-sodium-succinate	multiple sclerosis
+methylprednisolone-sodium-succinate	mycosis
+methyl-salicylate	fever
+methyl-salicylate	pain relief
+methylthiouracil	hyperthyroidism
+methysergide	headache
+meticrane	edema
+metirosine	hypertension
+metixene	Parkinson's Disease
+metoclopramide	gastroparesis
+metoclopramide	nausea
+metoclopramide	vomiting
+metocurine	muscle relaxant
+metolazone	edema
+metolazone	hypertension
+metoprolol	hypertension
+metoprolol	angina pectoris
+metoprolol	myocardial infarction
+metrizamide	contrast agent
+metrizoic-acid	contrast agent
+metronidazole	rosacea
+metyrapone	adrenal diagnostic agent
+mexiletine	ventricular arrhythmias
+mexiletine	ventricular tachycardia (VT)
+mezlocillin	gram-negative bacterial infections
+mezlocillin	gram-positive bacterial infections
+mianserin	depression
+micafungin	candidemia
+micafungin	peritonitis
+micafungin	esophageal candidiasis
+miconazole	yeast infection
+miconazole	itching
+micronomicin	gram-negative bacterial infections
+midecamycin	respiratory tract infections
+midecamycin	ear infections
+midecamycin	skin infections
+midodrine	hypotension
+midostaurin	acute myeloid leukemia (AML)
+mifepristone	hyperglycemia
+mifepristone	diabetes mellitus
+miglitol	diabetes mellitus
+miglustat	Gaucher disease
+milnacipran	fibromyalgia
+milrinone	congestive heart failure
+miltefosine	leishmaniasis
+minocycline	fever
+minocycline	respiratory tract infections
+minocycline	psittacosis
+minocycline	trachoma
+minocycline	conjunctivitis
+minocycline	urethritis
+minocycline	chancroid
+minocycline	tularemia
+minocycline	cholera
+minocycline	brucellosis
+minodronic-acid	osteoporosis
+minoxidil	androgenetic alopecia
+miocamycin	urinary tract infections
+miocamycin	chlamydia
+mirabegron	urinary incontinence
+miriplatin	hepatocellular carcinoma (HCC)
+mirodenafil	erectile dysfunction
+mirtazapine	depression
+misoprostol	duodenal ulcer disease
+mitiglinide	diabetes mellitus
+mitomycin-c	pancreatic cancer
+mitomycin-c	gastric adenocarcinoma
+mitotane	adrenal cortical carcinoma
+mitoxantrone	multiple sclerosis
+mitoxantrone	prostate cancer
+mitoxantrone	acute myeloid leukemia (AML)
+mivacurium	endotracheal intubation
+mivacurium	muscle relaxant
+mizolastine	urticaria
+mizolastine	allergic rhinitis
+mizoribine	organ rejection
+mizoribine	nephrotic syndrome
+moclobemide	depression
+moclobemide	anxiety
+moexipril	hypertension
+mofezolac	rheumatoid arthritis
+mofezolac	osteoporosis
+molindone	schizophrenia
+molsidomine	coronary artery disease (CAD)
+mometasone	corticosteroid-responsive dermatoses
+mometasone-furoate	corticosteroid-responsive dermatoses
+monensin	gastrointestinal parasites
+monobenzone	skin depigmentation
+monoctanoin	gallstones
+monomethyl-fumarate	multiple sclerosis
+montelukast	asthma
+montelukast	allergic rhinitis
+montelukast	exercise-induced bronchoconstriction (EIB)
+moprolol	hypertension
+moprolol	glaucoma
+moprolol	anxiety
+moracizine	ventricular arrhythmias
+morantel	tapeworm
+morniflumate	pain relief
+moroxydine	influenza A virus infection
+mosapride	hypertrophic gastritis (GHG)
+mosapride	gastroesophageal reflux disease (GERD)
+mosapride	dyspepsia
+mosapride	irritable bowel syndrome
+moxalactam	gram-positive bacterial infections
+moxalactam	gram-negative bacterial infections
+moxalactam	skin infections
+moxalactam	bone and joint infections
+moxalactam	pneumonia
+moxalactam	urinary tract infections
+moxalactam	meningitis
+moxaverine	spasms
+moxidectin	gastrointestinal parasites
+moxifloxacin	sinusitis
+moxifloxacin	bronchitis
+moxifloxacin	pneumonia
+moxifloxacin	skin infections
+moxifloxacin	intra-abdominal infections
+moxonidine	hypertension
+mozavaptan	hyponatremia
+mupirocin	impetigo
+mycophenolate-mofetil	organ rejection
+mycophenolic-acid	organ rejection
+nabumetone	rheumatoid arthritis
+nabumetone	osteoarthritis
+nadifloxacin	acne vulgaris (AV)
+nadifloxacin	skin infections
+nadolol	angina pectoris
+nadolol	hypertension
+nafamostat	anticoagulent
+nafcillin	gram-positive bacterial infections
+naftidrofuryl	claudication
+naftifine	tinea pedis
+naftifine	tinea cruris
+naftifine	tinea corporis
+naftopidil	benign prostatic hyperplasia (BPH)
+nalbuphine	pain relief
+nalfurafine	uremic pruritus
+nalidixic-acid	urinary tract infections
+nalmefene	respiratory depression
+naloxegol	constipation
+naloxone	respiratory depression
+naltrexone	abstinence from alcohol
+naphazoline	eye irritation
+naphthoquine-phosphate	malaria
+naproxen	pain relief
+naproxen	rheumatoid arthritis
+naproxen	headache
+naproxen	toothache
+naproxen	backache
+naproxen	muscle pain
+naproxen	common cold
+naproxen	fever
+narasin	coccidiosis
+naratriptan	migraine headache
+natamycin	conjunctivitis
+natamycin	fungal keratosis
+natamycin	blepharitis
+nateglinide	diabetes mellitus
+nebivolol	hypertension
+nedaplatin	non-small cell lung cancer (NSCLC)
+nedaplatin	small cell lung cancer
+nedaplatin	esophageal cancer
+nedocromil	itching
+nedocromil	conjunctivitis
+nefopam	pain relief
+nelarabine	acute lymphoblastic leukemia (ALL)
+nelfinavir	human immunodeficiency virus (HIV-1)
+nemonapride	schizophrenia
+neo-gilurytmal	cardiac arrythmia
+neomycin	first-aid antibiotic
+neomycin	hepatic encephalopathy (HE)
+neomycin	intra-abdominal infections
+neostigmine	myasthenia gravis
+nepafenac	eye inflammation
+neratinib	breast cancer
+neridronic-acid	brittle bone disease
+neridronic-acid	Paget's disease
+netilmicin	gram-negative bacterial infections
+netupitant	nausea
+netupitant	vomiting
+nevirapine	human immunodeficiency virus (HIV-1)
+niacin	hypertriglyceridemia
+nicardipine	chronic stable angina
+nicardipine	hypertension
+nicergoline	Raynaud's disease
+nicergoline	migraine headache
+nicergoline	atherosclerosis
+nicergoline	thrombosis
+niceritrol	hyperlipidemia
+niclosamide	tapeworm
+nicorandil	angina pectoris
+nicotinamide	acne vulgaris (AV)
+nicotine	smoking cessation
+nicotinyl-alcohol-tartrate	vascular spasm
+nicotinyl-alcohol-tartrate	vertigo
+nifedipine	vasospastic angina
+nifedipine	chronic stable angina
+nifekalant	ventricular arrhythmias
+nifekalant	ventricular tachycardia (VT)
+nifenazone	pain relief
+niflumic-acid	joint pain
+niflumic-acid	muscle pain
+nifuroxazide	colitis
+nifuroxazide	diarrhea
+nifurtimox	Chagas disease
+nifurtimox	African trypanosomiasis
+nilotinib	chronic myeloid leukemia (CML)
+nilutamide	prostate cancer
+nilvadipine	hypertension
+nilvadipine	cerebral artery occlusion
+nimesulide	osteoarthritis
+nimesulide	menstrual pain
+nimodipine	hemorrhage
+nimorazole	head and neck squamous cell carcinoma (HNSCC)
+nintedanib	idiopathic pulmonary fibrosis (IPF)
+niraparib	primary peritoneal cancer (PPC)
+niridazole	schistosomiasis
+nisoldipine	hypertension
+nitarsone	blackhead disease
+nitazoxanide	diarrhea
+nitenpyram	flea control
+nitisinone	tyrosinemia
+nitrendipine	hypertension
+nitrofurantoin	urinary tract infections
+nitrofurantoin	pyelonephritis
+nitrofurazone	first-aid antibiotic
+nitromide	coccidiosis
+nitroxoline	urinary tract infections
+nizatidine	duodenal ulcer disease
+nizatidine	erosive esophagitis (EE)
+nizatidine	ulcerative esophagitis (UE)
+nizatidine	gastroesophageal reflux disease (GERD)
+nizofenone	stroke
+nomegestrol-acetate	contraceptive
+nonivamide	rheumatoid arthritis
+nonivamide	muscle pain
+nonoxynol-9	contraceptive
+norelgestromin	contraceptive
+norepinephrine	hypertension
+norepinephrine	urticaria
+norepinephrine	headache
+norepinephrine	seasonal affective disorder
+norethindrone	endometriosis
+norethindrone-acetate	menopause
+norethindrone-acetate	osteoporosis
+norethindrone-acetate	vaginal atrophy
+norethisterone-enanthate	contraceptive
+noretynodrel	contraceptive
+norfloxacin	urinary tract infections
+norfloxacin	gonorrhea
+norfloxacin	prostatitis
+norgestimate	contraceptive
+norgestrel	contraceptive
+nortriptyline	depression
+noscapine	cough suppressant
+novobiocin	mastitis
+nystatin	esophageal candidiasis
+nystatin	skin infections
+nystatin	yeast infection
+obeticholic-acid	primary biliary cholangitis
+obidoxime	poison antidote
+obidoxime	nerve gas poisoning
+octenidine	gram-negative bacterial infections
+octenidine	gram-positive bacterial infections
+octinoxate	sunscreen lotion
+octisalate	sunscreen lotion
+octocrylene	sunscreen lotion
+octreotide	diarrhea
+octreotide	acromegaly
+octreotide	carcinoid tumors
+ofloxacin	respiratory tract infections
+ofloxacin	sinusitis
+ofloxacin	skin infections
+ofloxacin	bone and joint infections
+ofloxacin	intra-abdominal infections
+ofloxacin	diarrhea
+ofloxacin	fever
+ofloxacin	urinary tract infections
+olanzapine	schizophrenia
+olanzapine	bipolar disorder
+olaparib	ovarian cancer
+olmesartan	hypertension
+olmesartan-medoxomil	hypertension
+olmutinib	non-small cell lung cancer (NSCLC)
+olopatadine	conjunctivitis
+olprinone	congestive heart failure
+olsalazine	ulcerative colitis
+omadacycline	pneumonia
+omarigliptin	diabetes mellitus
+ombitasvir	hepatitis C
+omeprazole	heartburn
+omeprazole-magnesium	gastroesophageal reflux disease (GERD)
+omeprazole-magnesium	heartburn
+ondansetron	nausea
+ondansetron	vomiting
+opipramol	generalized anxiety disorder (GAD)
+orbifloxacin	urinary tract infections
+oritavancin	skin infections
+orlistat	weight-loss aid
+ormeloxifene	contraceptive
+ornidazole	protozoan infection
+orphenadrine	muscle pain
+oseltamivir-carboxylate	influenza A virus infection
+oseltamivir-phosphate	influenza A virus infection
+osimertinib	non-small cell lung cancer (NSCLC)
+ospemifene	vaginal atrophy
+ospemifene	dyspareunia
+ospemifene	menopause
+otilonium	irritable bowel syndrome
+ouabain	hypertension
+ouabain	cardiac arrythmia
+oxacillin	staphylococcal infections
+oxaliplatin	colorectal cancer
+oxantel	gastrointestinal parasites
+oxaprozin	osteoarthritis
+oxaprozin	rheumatoid arthritis
+oxatomide	allergic rhinitis
+oxcarbazepine	seizures
+oxelaidin	cough suppressant
+oxethazaine	local anesthetic
+oxfendazole	lungworms
+oxfendazole	tapeworm
+oxfendazole	gastrointestinal roundworms
+oxibendazole	strongyles
+oxiconazole	tinea pedis
+oxiconazole	tinea cruris
+oxiconazole	tinea corporis
+oxiracetam	senile dementia
+oxolamine	cough suppressant
+oxprenolol	angina pectoris
+oxprenolol	hypertension
+oxprenolol	cardiac arrythmia
+oxybenzone	sunscreen lotion
+oxybuprocaine	local anesthetic
+oxybutynin	urinary incontinence
+oxyclozanide	fascioliasis
+oxyfedrine	angina pectoris
+oxymetazoline	nasal congestion
+oxyphencyclimine	peptic ulcer disease (PUD)
+oxyphenonium	peptic ulcer disease (PUD)
+oxyquinoline	cosmetic
+oxytetracycline	chlamydia
+oxytetracycline	urinary tract infections
+oxytetracycline	skin infections
+oxytetracycline	ear infections
+oxytetracycline	gonorrhea
+oxytetracycline	urethritis
+oxytetracycline	Lyme disease
+oxytocin	labor induction
+ozagrel	stroke
+paclitaxel	ovarian cancer
+paclitaxel	breast cancer
+paclitaxel	non-small cell lung cancer (NSCLC)
+palbociclib	breast cancer
+paliperidone	schizophrenia
+palonosetron	nausea
+palonosetron	vomiting
+pamabrom	bloating
+pamidronate	hypercalcemia
+pamidronate	Paget's disease
+pamidronate	breast cancer
+pamidronate	multiple myeloma
+pancuronium	endotracheal intubation
+pancuronium	muscle relaxant
+panobinostat	multiple myeloma
+pantoprazole	gastroesophageal reflux disease (GERD)
+pantoprazole	erosive esophagitis (EE)
+pantoprazole	Zollinger-Ellison syndrome
+papaverine	myocardial infarction
+papaverine	angina pectoris
+papaverine	pulmonary embolism (PE)
+papaverine	colitis
+papaverine	vascular spasm
+paracetamol	pain relief
+paracetamol	fever
+parachlorophenol	first-aid antiseptic
+paramethadione	seizures
+parecoxib	pain relief
+pargyline	hypertension
+paricalcitol	chronic kidney disease (CKD)
+paricalcitol	hyperthyroidism
+paritaprevir	hepatitis C
+paromomycin	amebiasis
+paroxetine	depression
+paroxetine	obsessive compulsive disorder (OCD)
+paroxetine	generalized anxiety disorder (GAD)
+paroxetine	panic disorders
+paroxetine	posttraumatic stress disorder
+paroxetine	social anxiety disorder
+pasireotide	Cushing's syndrome
+pasireotide	acromegaly
+pazopanib	renal cell carcinoma (RCC)
+pazopanib	soft tissue sarcoma (STS)
+pazufloxacin	pneumonia
+pazufloxacin	peritonitis
+pazufloxacin	bacterial septicemia
+peficitinib	rheumatoid arthritis
+pefloxacin	gastrointestinal infections
+pefloxacin	urethritis
+pefloxacin	gonorrhea
+pefloxacin	urinary tract infections
+pemetrexed	non-small cell lung cancer (NSCLC)
+pemetrexed	mesothelioma
+pemirolast	asthma
+pempidine	hypertension
+penbutolol	hypertension
+penciclovir	cold sore
+penfluridol	schizophrenia
+penicillamine-(d)	Wilson's disease
+penicillamine-(d)	rheumatoid arthritis
+penicillamine-(d)	cystinuria
+penicillin-v-potassium	pneumonia
+penicillin-v-potassium	ear infections
+penicillin-v-potassium	skin infections
+penicillin-v-potassium	throat infections
+penicillin-v-potassium	cholera
+penicillin-v-potassium	scarlet fever
+pentagastrin	anacidity diagnostic
+pentagastrin	gastric hypersecretion diagnostic
+pentamidine	pneumonia
+pentolinium	hypertension
+pentostatin	hairy cell leukemia
+pentoxifylline	claudication
+peramivir	influenza A virus infection
+perchlozone	tuberculosis
+perflubron	contrast agent
+perfluorodecalin	cosmetic
+perhexiline	angina pectoris
+perindopril	hypertension
+perindopril	myocardial infarction
+perindopril	coronary artery disease (CAD)
+permethrin	lice
+perospirone	schizophrenia
+perospirone	bipolar disorder
+perphenazine	schizophrenia
+perphenazine	nausea
+perphenazine	vomiting
+pf-06463922	non-small cell lung cancer (NSCLC)
+phenacaine	local anesthetic
+phenacemide	epilepsy
+phenacemide	seizures
+phenazone	pain relief
+phenazopyridine	urinary tract infections
+phenelzine	depression
+phenindamine	allergic rhinitis
+phenindamine	common cold
+phenindione	deep vein thrombosis (DVT)
+pheniramine	allergic rhinitis
+pheniramine	urticaria
+phenol	pharyngitis
+phenothrin	lice
+phenoxybenzamine	hypertension
+phenoxybenzamine	pheochromocytoma
+phenprobamate	anxiety
+phenprobamate	muscle relaxant
+phenprocoumon	thrombosis
+phenprocoumon	pulmonary embolism (PE)
+phensuximide	seizures
+phentolamine	pheochromocytoma
+phentolamine	hypertension
+phenyl-aminosalicylate	tuberculosis
+phenylbenzimidazole-sulfonic-acid	sunscreen lotion
+phenylbutyrate	urea cycle disorders
+phenylephrine	nasal congestion
+phenylephrine	hemorrhoids
+phenylephrine	hypotension
+phenylpiracetam	anxiety
+phenylpiracetam	fatigue
+phenylpiracetam	depression
+phenyl-salicylate	interstitial cystitis (IC)
+phenytoin	seizures
+phloroglucin	spasms
+phosphatidylcholine	hepatitis B
+phosphatidylcholine	hepatitis C
+phosphatidylcholine	eczema
+phosphatidylcholine	gallbladder disease
+phosphatidylcholine	cholesterol
+phosphatidylcholine	premenstrual syndrome
+phthalylsulfathiazole	dysentry
+phthalylsulfathiazole	colitis
+physostigmine	hypotension
+physostigmine	Alzheimer's disease
+physostigmine	glaucoma
+physostigmine	gastroparesis
+phytonadione	vitamin K deficiency
+phytonadione	anticoagulation reversal
+picotamide	thrombosis
+pidolic-acid	xerosis cutis
+pidotimod	immune adjuvant
+piketoprofen	pain relief
+pilocarpine	glaucoma
+pilocarpine	hypertension
+pilsicainide	cardiac arrythmia
+pimavanserin	Parkinson's Disease
+pimecrolimus	eczema
+pimethixene	attention-deficit/hyperactivity disorder (ADHD)
+pimethixene	anxiety
+pimethixene	sleep cycle support
+pimethixene	allergic rhinitis
+pimobendan	congestive heart failure
+pimozide	Tourette's disorder
+pinacidil	hypertension
+pinaverium	irritable bowel syndrome
+pindolol	hypertension
+pioglitazone	diabetes mellitus
+pipamperone	schizophrenia
+pipecuronium	anesthetic
+pipemidic-acid	gram-negative bacterial infections
+pipenzolate	spasms
+piperacetazine	schizophrenia
+piperacillin	intra-abdominal infections
+piperacillin	skin infections
+piperacillin	pelvic inflammatory disease
+piperacillin	pneumonia
+piperaquine-phosphate	malaria
+piperazine	gastrointestinal roundworms
+piperidolate	spasms
+piperonyl-butoxide	lice
+pipobroman	polycythemia vera
+pipobroman	thrombocythemia
+pipotiazine	schizophrenia
+pipotiazine-palmitate	schizophrenia
+piracetam	senile dementia
+pirarubicin	breast cancer
+pirenoxine	cataracts
+pirenzepine	peptic ulcer disease (PUD)
+piretanide	hypertension
+piretanide	edema
+pirfenidone	idiopathic pulmonary fibrosis (IPF)
+piribedil	Parkinson's Disease
+piribedil	dizziness
+pirlindole	depression
+piroctone-olamine	fungal infection
+piroxicam	osteoarthritis
+piroxicam	rheumatoid arthritis
+pitavastatin	hyperlipidemia
+pivagabine	depression
+pivampicillin	bronchitis
+pivampicillin	pneumonia
+pivampicillin	gynecologic infections
+pivmecillinam	urinary tract infections
+pivmecillinam	gram-negative bacterial infections
+pixantrone	non-Hodgkin lymphoma (NHL)
+pizotifen	migraine headache
+plerixafor	non-Hodgkin lymphoma (NHL)
+plerixafor	multiple myeloma
+plicamycin	testicular carcinoma
+plicamycin	Paget's disease
+plicamycin	hypercalcemia
+podophyllotoxin	genital warts
+polidocanol	varicose veins
+polymyxin-b-sulfate	eye infection
+polythiazide	edema
+polythiazide	congestive heart failure
+polythiazide	hepatic cirrhosis
+polythiazide	nephrotic syndrome
+polythiazide	acute glomerulonephritis (AGN)
+polythiazide	chronic renal failure
+polythiazide	hypertension
+pomalidomide	multiple myeloma
+ponatinib	chronic myeloid leukemia (CML)
+ponatinib	acute lymphoblastic leukemia (ALL)
+posaconazole	oropharyngeal candidiasis
+potassium-canrenoate	edema
+potassium-iodide	asthma
+potassium-iodide	bronchitis
+potassium-iodide	emphysema
+potassium-p-aminobenzoate	scleroderma
+potassium-p-aminobenzoate	dermatomyositis
+potassium-p-aminobenzoate	Peyronie's disease
+pralatrexate	peripheral T-cell lymphoma (PTCL)
+pralidoxime	organophosphate poisoning
+pralidoxime-chloride	respiratory depression
+pramipexole	Parkinson's Disease
+pramiracetam	senile dementia
+pramoxine	corticosteroid-responsive dermatoses
+pranlukast	bronchospasm
+pranlukast	asthma
+pranoprofen	pain relief
+prasugrel	myocardial infarction
+prasugrel	acute coronary syndrome (ACS)
+pravastatin	hypercholesterolemia
+pravastatin	myocardial infarction
+pravastatin	hyperlipidemia
+praziquantel	gastrointestinal parasites
+praziquantel	cystic hydatid disease
+praziquantel	schistosomiasis
+prazosin	hypertension
+prednicarbate	eczema
+prednicarbate	contact dermatitis
+prednicarbate	itching
+prednisolone	conjunctivitis
+prednisolone	rosacea
+prednisolone	punctate keratitis
+prednisolone	shingles
+prednisolone	iritis
+prednisolone	cyclitis
+prednisolone-acetate	conjunctivitis
+prednisolone-acetate	rosacea
+prednisolone-acetate	punctate keratitis
+prednisolone-acetate	shingles
+prednisolone-acetate	iritis
+prednisolone-acetate	cyclitis
+prednisolone-sodium-phosphate	allergic rhinitis
+prednisolone-sodium-phosphate	asthma
+prednisolone-sodium-phosphate	contact dermatitis
+prednisolone-sodium-phosphate	mycosis
+prednisolone-sodium-phosphate	lupus
+prednisolone-sodium-phosphate	hypercalcemia
+prednisolone-sodium-phosphate	thyroiditis
+prednisolone-sodium-phosphate	congenital adrenal hyperplasia
+prednisolone-sodium-phosphate	multiple sclerosis
+prednisolone-sodium-phosphate	ulcerative colitis
+prednisolone-sodium-phosphate	enteritis
+prednisolone-sodium-phosphate	thrombocythemia
+prednisolone-sodium-phosphate	pneumonia
+prednisolone-sodium-phosphate	meningitis
+prednisolone-sodium-phosphate	psoriatic arthritis
+prednisolone-sodium-phosphate	rheumatoid arthritis
+prednisone	congenital adrenal hyperplasia
+prednisone	hypercalcemia
+prednisone	rheumatoid arthritis
+prednisone	psoriatic arthritis
+prednisone	ankylosing spondylitis
+prednisone	bursitis
+prednisone	osteoarthritis
+prednisone	epicondylitis
+prednisone	dermatomyositis
+prednisone	psoriasis
+prednisone	mycosis
+prednisone	conjunctivitis
+prednisone	anemia
+prednisone	ulcerative colitis
+prednisone	enteritis
+prednisone	multiple sclerosis
+prednisone	meningitis
+pregnenolone	rheumatoid arthritis
+pridinol	muscle relaxant
+prilocaine	anesthetic
+primaquine	malaria
+primidone	seizures
+probenecid	hyperuricemia
+probenecid	gout
+probucol	coronary artery disease (CAD)
+procainamide	ventricular arrhythmias
+procainamide	ventricular tachycardia (VT)
+procaine	anesthetic
+procarbazine	Hodgkin's lymphoma
+procaterol	asthma
+prochlorperazine	nausea
+prochlorperazine	vomiting
+procyclidine	parkinsonism
+procyclidine	Parkinson's Disease
+procyclidine	akathisia
+procyclidine	dystonia
+profenamine	Parkinson's Disease
+progesterone	infertility
+progesterone	amenorrhea
+proglumetacin	pain relief
+proguanil	malaria
+promazine	schizophrenia
+promestriene	androgenetic alopecia
+promethazine	sedative
+promethazine	allergic rhinitis
+propacetamol	fever
+propacetamol	pain relief
+propafenone	atrial fibrillation (AF)
+propafenone	ventricular tachycardia (VT)
+propafenone	ventricular arrhythmias
+propagermanium	hepatitis B
+propantheline	peptic ulcer disease (PUD)
+propatylnitrate	angina pectoris
+propentofylline	stroke
+propiolactone	antiseptic
+propiverine	urinary incontinence
+propofol	anesthetic
+propoxur	flea control
+propoxycaine	anesthetic
+propranolol	hypertension
+propranolol	angina pectoris
+propranolol	migraine headache
+propylhexedrine	nasal congestion
+propylhexedrine	fever
+propylhexedrine	allergic rhinitis
+propylthiouracil	hyperthyroidism
+propylthiouracil	Grave's disease
+propylthiouracil	goiter
+proquazone	pain relief
+proscillaridin-a	congestive heart failure
+proscillaridin-a	cardiac arrythmia
+protionamide	tuberculosis
+protirelin	thyroid function diagnostic
+protriptyline	depression
+proxymetacaine	anesthetic
+proxyphylline	asthma
+prucalopride	constipation
+prulifloxacin	urinary tract infections
+prulifloxacin	bronchitis
+prulifloxacin	diarrhea
+psoralen	psoriasis
+psoralen	eczema
+psoralen	vitiligo
+pyrantel	gastrointestinal roundworms
+pyrantel-pamoate	hookworm
+pyrantel-pamoate	tapeworm
+pyrazinamide	tuberculosis
+pyrethrins	flea control
+pyridoxal	epilepsy
+pyridoxine	vitamin B6 deficiency
+pyrimethamine	malaria
+pyrithione-zinc	dandruff
+pyrithione-zinc	cosmetic
+pyritinol	rheumatoid arthritis
+pyritinol	senile dementia
+pyrvinium-pamoate	pinworm
+quercetin	fatigue
+quercetin	allergic rhinitis
+quercetin	drowsiness
+quetiapine	schizophrenia
+quetiapine	bipolar disorder
+quinagolide	hyperprolactinemia
+quinapril	hypertension
+quinapril	congestive heart failure
+quinapril	angioedema
+quinaprilat	hypertension
+quinaprilat	angioedema
+quinestrol	menopause
+quinethazone	hypertension
+quinidine	malaria
+quinidine	atrial fibrillation (AF)
+quinidine	ventricular arrhythmias
+quinine	malaria
+quinine-ethyl-carbonate	malaria
+rabeprazole	gastroesophageal reflux disease (GERD)
+rabeprazole	duodenal ulcer disease
+rabeprazole	Zollinger-Ellison syndrome
+racecadotril	diarrhea
+ractopamine	weight-gain aid
+raloxifene	osteoporosis
+raloxifene	breast cancer
+raltegravir	human immunodeficiency virus (HIV-1)
+raltitrexed	mesothelioma
+ramatroban	coronary artery disease (CAD)
+ramatroban	asthma
+ramelteon	insomnia
+ramifenazone	pain relief
+ramifenazone	fever
+ramipril	hypertension
+ramosetron	nausea
+ramosetron	vomiting
+ramosetron	irritable bowel syndrome
+ranitidine	heartburn
+ranolazine	chronic stable angina
+rasagiline	Parkinson's Disease
+rebamipide	peptic ulcer disease (PUD)
+rebamipide	gastritis
+reboxetine	depression
+regadenoson	myocardial perfusion imaging (MPI)
+regorafenib	colorectal cancer
+regorafenib	gastrointestinal stromal tumors (GIST)
+repaglinide	diabetes mellitus
+reserpine	hypertension
+resorcinol	acne vulgaris (AV)
+resorcinol	eczema
+resorcinol	psoriasis
+resorcinol	seborrheic dermatitis
+retapamulin	impetigo
+retinaldehyde	cosmetic
+retinol	cosmetic
+retinol	acne vulgaris (AV)
+retinol	keratosis
+revaprazan	gastritis
+ribavirin	hepatitis C
+ribociclib	breast cancer
+riboflavin	jaundice
+ribostamycin	human immunodeficiency virus (HIV-1)
+ribostamycin-sulfate	gram-negative bacterial infections
+rifabutin	human immunodeficiency virus (HIV-1)
+rifampin	tuberculosis
+rifampin	meningitis
+rifamycin	tuberculosis
+rifamycin	leprosy
+rifapentine	tuberculosis
+rifaximin	diarrhea
+rifaximin	irritable bowel syndrome
+rifaximin	hepatic encephalopathy (HE)
+rilmenidine	hypertension
+rilpivirine	human immunodeficiency virus (HIV-1)
+riluzole	amyotrophic lateral sclerosis (ALS)
+rimantadine	influenza A virus infection
+rimexolone	anterior uveitis
+riociguat	hypertension
+ripasudil	glaucoma
+ripasudil	ocular hypertension
+risedronate	osteoporosis
+risedronate	Paget's disease
+risperidone	schizophrenia
+risperidone	bipolar disorder
+risperidone	irritability
+ritodrine	premature labor
+ritonavir	human immunodeficiency virus (HIV-1)
+rivaroxaban	stroke
+rivaroxaban	systemic embolism
+rivaroxaban	atrial fibrillation (AF)
+rivaroxaban	deep vein thrombosis (DVT)
+rivaroxaban	pulmonary embolism (PE)
+rivastigmine	Alzheimer's disease
+rivastigmine	Parkinson's Disease
+rivastigmine	senile dementia
+rizatriptan	migraine headache
+rocuronium	anesthetic
+roflumilast	chronic obstructive pulmonary disease (COPD)
+roflumilast	bronchitis
+rolitetracycline	gram-negative bacterial infections
+rolitetracycline	gram-positive bacterial infections
+romidepsin	cutaneous T-cell lymphoma (CTCL)
+ronidazole	histomoniasis
+ronidazole	dysentry
+ropinirole	Parkinson's Disease
+ropinirole	restless leg syndrome
+ropivacaine	anesthetic
+rose-bengal	diagnostic agent
+rose-bengal-lactone	staining agent
+rosoxacin	urinary tract infections
+rosuvastatin	hyperlipidemia
+rosuvastatin	dyslipidemia
+rosuvastatin	hypertriglyceridemia
+rosuvastatin	hypercholesterolemia
+rosuvastatin	atherosclerosis
+rotigotine	Parkinson's Disease
+rotigotine	restless leg syndrome
+rotundine	anxiety
+rotundine	sedative
+roxarsone	weight-gain aid
+roxatidine-acetate	Zollinger-Ellison syndrome
+roxatidine-acetate	erosive esophagitis (EE)
+roxatidine-acetate	gastroesophageal reflux disease (GERD)
+roxatidine-acetate	gastritis
+roxithromycin	respiratory tract infections
+roxithromycin	urinary tract infections
+roxithromycin	skin infections
+rufinamide	seizures
+rufloxacin	gram-negative bacterial infections
+rupatadine	allergic rhinitis
+rupatadine	urticaria
+rutin	joint pain
+rutin	nasal congestion
+rutin	constipation
+rutin	irritability
+rutin	allergic rhinitis
+ruxolitinib	myelofibrosis
+ruxolitinib	polycythemia vera
+sacubitril	congestive heart failure
+safinamide	Parkinson's Disease
+salicylamide	pain relief
+salicylamide	fever
+salicylic-acid	acne vulgaris (AV)
+salicylic-acid	fever
+salicylic-acid	pain relief
+salinomycin	coccidiosis
+salmeterol	asthma
+salmeterol	chronic obstructive pulmonary disease (COPD)
+salmeterol	bronchospasm
+sapropterin	hyperphenylalaninemia (HPA)
+saquinavir	human immunodeficiency virus (HIV-1)
+sarafloxacin	gram-negative bacterial infections
+sarafloxacin	gram-positive bacterial infections
+saroglitazar	diabetes mellitus
+saroglitazar	dyslipidemia
+saroglitazar	non-alcoholic steatohepatitis (NASH)
+sarpogrelate	diabetes mellitus
+sarpogrelate	angina pectoris
+sarpogrelate	Raynaud's disease
+sarpogrelate	atherosclerosis
+sarpogrelate	Buerger's disease
+sasapyrine	osteoarthritis
+sasapyrine	rheumatoid arthritis
+saxagliptin	diabetes mellitus
+scmc-lys	chronic obstructive pulmonary disease (COPD)
+scopolamine	motion sickness
+scopolamine	vomiting
+scopolamine	nausea
+secalciferol	bone fracture
+secnidazole	protozoan infection
+selamectin	flea control
+selegiline	Parkinson's Disease
+selexipag	pulmonary arterial hypertension (PAH)
+selinexor	multiple myeloma
+sennoside-a	constipation
+seratrodast	asthma
+serotonin	anxiety
+serotonin	depression
+serotonin	sleeplessness
+sertaconazole	tinea pedis
+sertraline	depression
+sertraline	obsessive compulsive disorder (OCD)
+sertraline	panic disorders
+sertraline	posttraumatic stress disorder
+sertraline	premenstrual syndrome
+sertraline	social anxiety disorder
+setiptiline	depression
+sevoflurane	anesthetic
+sildenafil	erectile dysfunction
+silibinin	hepatic cirrhosis
+silodosin	benign prostatic hyperplasia (BPH)
+silver-sulfadiazine	sepsis
+simeprevir	hepatitis C
+simvastatin	hypercholesterolemia
+simvastatin	coronary heart disease
+simvastatin	myocardial infarction
+simvastatin	stroke
+simvastatin	hyperlipidemia
+siponimod	multiple sclerosis
+sirolimus	organ rejection
+sirolimus	lymphangioleiomyomatosis
+sisomicin	conjunctivitis
+sisomicin	punctate keratitis
+sisomicin-sulfate	gram-negative bacterial infections
+sitafloxacin	buruli ulcer
+sitagliptin	diabetes mellitus
+sivelestat	acute lung injury
+sn-38	colorectal cancer
+sobrepin	chest congestion
+sobuzoxane	peripheral T-cell lymphoma (PTCL)
+sodium-gualenate	peptic ulcer disease (PUD)
+sodium-gualenate	pharyngitis
+sodium-monofluorophosphate	cavities
+sodium-nitrite	poison antidote
+sodium-nitrite	cyanide poisoning
+sodium-nitroprusside	hypertension
+sodium-nitroprusside	congestive heart failure
+sodium-picosulfate	constipation
+sodium-stibogluconate	leishmaniasis
+sodium-tetradecyl-sulfate	varicose veins
+sofalcone	peptic ulcer disease (PUD)
+sofosbuvir	hepatitis C
+sofosbuvir	hepatitis C
+solifenacin-succinate	urinary incontinence
+solifenacin-succinate	urinary frequency
+solriamfetol	narcolepsy
+somatostatin	hemorrhage
+sonidegib	basal cell carcinoma (BCC)
+sorafenib	renal cell carcinoma (RCC)
+sorafenib	thyroid cancer
+sorafenib	hepatocellular carcinoma (HCC)
+sorbitol	constipation
+sotalol	atrial fibrillation (AF)
+sotalol	ventricular arrhythmias
+spaglumic-acid	allergic conjunctivitis
+spaglumic-acid	allergic rhinitis
+spectinomycin	airsacculitis
+spectinomycin	chronic respiratory disease
+spiperone	schizophrenia
+spiramycin	toxoplasmosis
+spiramycin	soft tissue infection
+spironolactone	hyperaldosteronism
+spironolactone	congestive heart failure
+spironolactone	hepatic cirrhosis
+spironolactone	nephrotic syndrome
+spironolactone	hypertension
+spironolactone	hypokalemia
+stavudine	human immunodeficiency virus (HIV-1)
+stiripentol	epilepsy
+streptomycin	tuberculosis
+streptozotocin	pancreatic cancer
+strontium-ranelate	osteoporosis
+strontium-ranelate	osteoarthritis
+succinylcholine-chloride	muscle relaxant
+sucralfate	duodenal ulcer disease
+sulbactam	skin infections
+sulbactam	intra-abdominal infections
+sulbactam	gynecologic infections
+sulbactam-pivoxil	skin infections
+sulbutiamine	asthenia
+sulconazole	tinea pedis
+sulconazole	tinea cruris
+sulconazole	tinea corporis
+sulfabenzamide	gram-negative bacterial infections
+sulfabenzamide	gram-positive bacterial infections
+sulfacetamide	conjunctivitis
+sulfachlorpyridazine	urinary tract infections
+sulfadiazine	malaria
+sulfadiazine	meningitis
+sulfadiazine	urinary tract infections
+sulfadiazine	conjunctivitis
+sulfadiazine	trachoma
+sulfadiazine	chancroid
+sulfadoxine	malaria
+sulfafurazole	urinary tract infections
+sulfaguanidine	urinary tract infections
+sulfamerazine	coccidiosis
+sulfamerazine	cholera
+sulfameter	urinary tract infections
+sulfamethazine	enteritis
+sulfamethizole	urinary tract infections
+sulfamethoxazole	pneumonia
+sulfamethoxazole	enteritis
+sulfamethoxazole	urinary tract infections
+sulfametopyrazine	malaria
+sulfametopyrazine	urinary tract infections
+sulfametopyrazine	respiratory tract infections
+sulfamonomethoxine	urinary tract infections
+sulfamoxole	urinary tract infections
+sulfanilamide	vulvovaginal candidiasis
+sulfanitran	coccidiosis
+sulfaphenazole	urinary tract infections
+sulfapyridine	gram-negative bacterial infections
+sulfapyridine	gram-positive bacterial infections
+sulfaquinoxaline	coccidiosis
+sulfasalazine	ulcerative colitis
+sulfathiazole	gram-negative bacterial infections
+sulfathiazole	gram-positive bacterial infections
+sulfinpyrazone	gout
+sulfisoxazole-acetyl	meningitis
+sulfisoxazole-acetyl	urinary tract infections
+sulfisoxazole-acetyl	otitis
+sulfisoxazole-acetyl	trachoma
+sulindac	osteoarthritis
+sulindac	rheumatoid arthritis
+sulindac	ankylosing spondylitis
+sulisobenzone	sunscreen lotion
+sulmetozine	peptic ulcer disease (PUD)
+sulphadimethoxine	gram-negative bacterial infections
+sulphadimethoxine	gram-positive bacterial infections
+sulpiride	schizophrenia
+sultamicillin	gram-negative bacterial infections
+sultamicillin	gram-positive bacterial infections
+sumatriptan	migraine headache
+sunitinib	gastrointestinal stromal tumors (GIST)
+sunitinib	renal cell carcinoma (RCC)
+sunitinib	neuroendocrine tumors of pancreatic origin (PNET)
+suplatast	Kimura's disease
+suramin	African trypanosomiasis
+suramin	onchocerciasis
+suxibuzone	joint pain
+suxibuzone	muscle pain
+synephrine	sinusitis
+tacalcitol	psoriasis
+tacalcitol	chapped lips
+tacrine	Alzheimer's disease
+tacrolimus	organ rejection
+tadalafil	erectile dysfunction
+tafamidis-meglumine	familial amyloid polyneuropathy (FAP)
+tafenoquine	malaria
+tafluprost	glaucoma
+tafluprost	ocular hypertension
+talazoparib	breast cancer
+talinolol	hypertension
+talipexole	genitial herpes
+talniflumate	pain relief
+taltirelin	spinocerebellar ataxia
+tamibarotene	acute promyelocytic leukemia (APL)
+tamoxifen	breast cancer
+tamsulosin	benign prostatic hyperplasia (BPH)
+tandospirone	generalized anxiety disorder (GAD)
+tandospirone	dysthymic disorder
+tannic-acid	constipation
+tasimelteon	Non-24-Hour Sleep-Wake Disorder
+taurine	anxiety
+taurine	irritability
+taurine	sleeplessness
+taurolidine	catheter-related bloodstream infection
+tavaborole	onychomycosis
+tazarotene	cosmetic
+tazarotene	sunscreen lotion
+tazobactam	pneumonia
+tebipenem	pneumonia
+tebipenem	otitis
+tecovirimat	smallpox
+tedizolid	skin infections
+tedizolid-phosphate	skin infections
+teicoplanin	gram-positive bacterial infections
+teicoplanin-a2-1	gram-positive bacterial infections
+teicoplanin-a2-3	gram-positive bacterial infections
+telaprevir	hepatitis C
+telbivudine	hepatitis B
+telithromycin	pneumonia
+telmesteine	cough suppressant
+telmisartan	hypertension
+telotristat	diarrhea
+telotristat-ethyl	diarrhea
+temocapril	hypertension
+temocapril	congestive heart failure
+temocapril	diabetic nephropathy
+temocapril	coronary artery disease (CAD)
+temoporfin	head and neck squamous cell carcinoma (HNSCC)
+temozolomide	glioblastoma
+temozolomide	astrocytoma
+temsirolimus	renal cell carcinoma (RCC)
+teneligliptin	diabetes mellitus
+teniposide	acute lymphoblastic leukemia (ALL)
+tenofovir	human immunodeficiency virus (HIV-1)
+tenofovir	hepatitis B
+tenofovir-alafenamide	hepatitis B
+tenofovir-disoproxil	human immunodeficiency virus (HIV-1)
+tenofovir-disoproxil	hepatitis B
+tenoxicam	rheumatoid arthritis
+tenoxicam	osteoarthritis
+tenoxicam	ankylosing spondylitis
+tenoxicam	tendinitis
+tenoxicam	bursitis
+tenoxicam	periarthritis
+tepoxalin	rheumatoid arthritis
+tepoxalin	hip dysplasia
+teprenone	cosmetic
+terazosin	benign prostatic hyperplasia (BPH)
+terazosin	hypertension
+terbinafine	tinea pedis
+terbinafine	tinea cruris
+terbinafine	tinea corporis
+terbutaline	bronchospasm
+terbutaline	bronchitis
+terbutaline	emphysema
+terconazole	vulvovaginal candidiasis
+terguride	Parkinson's Disease
+teriflunomide	multiple sclerosis
+terlipressin	hypotension
+tetrabenazine	cholera
+tetrabenazine	Huntington's disease
+tetracaine	anesthetic
+tetracycline	respiratory tract infections
+tetracycline	pneumonia
+tetracycline	skin infections
+tetracycline	urinary tract infections
+tetracycline	acne vulgaris (AV)
+tetracycline	plague
+tetracycline	psittacosis
+tetrahydrozoline	eye irritation
+tetramisole	gastrointestinal parasites
+tezacaftor	cystic fibrosis
+thalidomide	myeloma
+thiamine	thiamine deficiency
+thiamine-pyrophosphate	anemia
+thiamphenicol	pelvic inflammatory disease
+thiamylal	sedative
+thiethylperazine	nausea
+thiocolchicoside	muscle relaxant
+thioctic-acid	diabetic nephropathy
+thioguanine	acute myeloid leukemia (AML)
+thiomersal	preservative
+thiopental	anesthetic
+thioproperazine	schizophrenia
+thiostrepton	mastitis
+thiotepa	breast cancer
+thiotepa	ovarian cancer
+thiotepa	bladder cancer
+thiothixene	schizophrenia
+thiram	contact dermatitis
+thonzonium	ear infections
+thonzylamine	itching
+thymalfasin	hepatitis B
+thymalfasin	hepatitis C
+thymol	ringworm
+thymol	antiseptic
+tiabendazole	gastrointestinal roundworms
+tiabendazole	hookworm
+tiagabine	seizures
+tianeptine	depression
+tianeptine	asthma
+tianeptine	irritable bowel syndrome
+tiapride	dyskinesia
+tiapride	abstinence from alcohol
+tiapride	psychosis
+tiaprofenic-acid	rheumatoid arthritis
+tiaramide	asthma
+tibolone	endometriosis
+ticagrelor	acute coronary syndrome (ACS)
+ticagrelor	myocardial infarction
+ticarcillin	gram-negative bacterial infections
+ticlopidine	thrombosis
+ticlopidine	stroke
+tigecycline	skin infections
+tigecycline	pneumonia
+tigecycline	intra-abdominal infections
+tilmicosin	bovine respiratory disease (BRD)
+tilorone	influenza A virus infection
+tilorone	diarrhea
+tilorone	hepatitis B
+tilorone	multiple sclerosis
+tilorone	urinary tract infections
+tilorone	virus herpes simplex (HSV)
+tilorone	hepatitis C
+tiludronate	navicular syndrome
+timolol	ocular hypertension
+timolol	glaucoma
+tinidazole	giardiasis
+tinidazole	amebiasis
+tinidazole	bacterial vaginosis
+tinidazole	trichomoniasis
+tinoridine	pain relief
+tioconazole	yeast infection
+tioguanine	acute myeloid leukemia (AML)
+tioguanine	acute lymphoblastic leukemia (ALL)
+tioguanine	chronic myeloid leukemia (CML)
+tiopronin	kidney stones
+tiotropium	chronic obstructive pulmonary disease (COPD)
+tiotropium	bronchitis
+tiotropium	emphysema
+tipiracil	colorectal cancer
+tipranavir	human immunodeficiency virus (HIV-1)
+tiquizium	spasms
+tiratricol	Refetoff syndrome
+tirofiban	myocardial infarction
+tirofiban	refactory angina
+tivozanib	renal cell carcinoma (RCC)
+tizanidine	spasms
+tobramycin	bacterial septicemia
+tobramycin	respiratory tract infections
+tobramycin	meningitis
+tobramycin	skin infections
+tobramycin	urinary tract infections
+tocainide	cardiac arrythmia
+toceranib	cutaneous mast cell tumors
+tocofersolan	cerebral cholesterosis
+todralazine	hypertension
+tofacitinib	rheumatoid arthritis
+tofisopam	anxiety
+tofisopam	abstinence from alcohol
+tofogliflozin	diabetes mellitus
+tolazamide	diabetes mellitus
+tolazoline	reverse sedative
+tolbutamide	diabetes mellitus
+tolfenamic-acid	migraine headache
+tolmetin	rheumatoid arthritis
+tolmetin	osteoarthritis
+tolnaftate	tinea pedis
+tolnaftate	tinea corporis
+tolonium	methemoglobinemia
+toloxatone	depression
+tolperisone	muscle relaxant
+tolperisone	multiple sclerosis
+tolperisone	encephalomyelitis
+tolperisone	ankylosing spondylitis
+tolperisone	atherosclerosis
+tolperisone	Raynaud's disease
+tolterodine	urinary incontinence
+tolterodine	urinary frequency
+toltrazuril	coccidiosis
+tolvaptan	hyponatremia
+tolvaptan	congestive heart failure
+tolvaptan	hepatic cirrhosis
+topiramate	epilepsy
+topiramate	migraine headache
+topiroxostat	gout
+topiroxostat	hyperuricemia
+topotecan	small cell lung cancer
+topotecan	cervical cancer
+torasemide	edema
+torasemide	congestive heart failure
+torasemide	hypertension
+toremifene	breast cancer
+tosufloxacin	gram-negative bacterial infections
+trametinib	melanoma
+trandolapril	hypertension
+trandolapril	myocardial infarction
+tranexamic-acid	hemophilia
+tranilast	asthma
+tranylcypromine	depression
+trapidil	coronary artery disease (CAD)
+travoprost	ocular hypertension
+travoprost	glaucoma
+trazodone	depression
+trelagliptin	diabetes mellitus
+treosulfan	ovarian cancer
+trepibutone	irritable bowel syndrome
+treprostinil	pulmonary arterial hypertension (PAH)
+tretinoin	acute promyelocytic leukemia (APL)
+triamcinolone	corticosteroid-responsive dermatoses
+triamcinolone-acetonide	corticosteroid-responsive dermatoses
+triamterene	hypokalemia
+triamterene	hypertension
+triamterene	edema
+tricaprylin	cosmetic
+trichlormethiazide	hypertension
+trichlormethiazide	edema
+trichloroacetic-acid	warts
+triclabendazole	tapeworm
+triclocarban	first-aid antiseptic
+triclosan	first-aid antiseptic
+tridihexethyl	peptic ulcer disease (PUD)
+tridihexethyl	nystagmus
+trientine	Wilson's disease
+trifluoperazine	schizophrenia
+triflupromazine	psychosis
+triflupromazine	nausea
+triflupromazine	vomiting
+trifluridine	virus herpes simplex (HSV)
+triflusal	stroke
+triflusal	myocardial infarction
+triflusal	atrial fibrillation (AF)
+trihexyphenidyl	parkinsonism
+trilostane	Cushing's syndrome
+trimebutine	irritable bowel syndrome
+trimetazidine	angina pectoris
+trimethadione	seizures
+trimethobenzamide	vomiting
+trimethobenzamide	nausea
+trimethobenzamide	gastroenteritis
+trimethoprim	urinary tract infections
+trimethoprim	ear infections
+trimethoprim	diarrhea
+trimethoquinol	asthma
+trimetozine	sedative
+trimipramine	depression
+trioxsalen	vitiligo
+trioxsalen	eczema
+tripelennamine	asthma
+tripelennamine	allergic rhinitis
+tripelennamine	urticaria
+triprolidine	allergic rhinitis
+triptorelin	prostate cancer
+triptorelin	breast cancer
+triptorelin	precocious puberty
+triptorelin	endometriosis
+triptorelin	myoma
+triptorelin	gender dysphoria
+trofosfamide	medulloblastoma
+troleandomycin	pneumonia
+troleandomycin	bronchitis
+troleandomycin	tonsillitis
+troleandomycin	sinusitis
+tromaril	eye inflammation
+tropicamide	mydriasis diagnostic
+tropicamide	cycloplegia diagnostic
+tropisetron	nausea
+tropisetron	vomiting
+trospium	urinary incontinence
+trospium	urinary frequency
+troxipide	gastroesophageal reflux disease (GERD)
+tryptophan	anxiety
+tryptophan	bloating
+tryptophan	constipation
+tryptophan	fatigue
+tryptophan	sleeplessness
+tuaminoheptane	nasal congestion
+tubocurarine	anesthetic
+tulobuterol	asthma
+tylosin	gram-positive bacterial infections
+tylosin	colitis
+tymazoline	allergic rhinitis
+ubenimex	acute myeloid leukemia (AML)
+udenafil	erectile dysfunction
+ufenamate	eczema
+ufenamate	dermatitis
+ulifloxacin	gram-negative bacterial infections
+ulifloxacin	gram-positive bacterial infections
+ulipristal	contraceptive
+umeclidinium	chronic obstructive pulmonary disease (COPD)
+umeclidinium	bronchitis
+umeclidinium	emphysema
+undecylenic-acid	tinea pedis
+undecylenic-acid	tinea corporis
+uracil-mustard	non-Hodgkin lymphoma (NHL)
+urapidil	hypertension
+urea	psoriasis
+urea	xerosis cutis
+urea	ichthyosis vulgaris
+urea	eczema
+urea	keratosis
+urea	dermatitis
+uridine-triacetate	orotic aciduria
+ursodiol	gallstones
+valaciclovir	shingles
+valaciclovir	virus herpes simplex (HSV)
+valbenazine	dyskinesia
+valethamate	labor induction
+valganciclovir	cytomegalovirus (CMV)
+valnemulin	dysentry
+valnemulin	colitis
+valnemulin	pneumonia
+valnoctamide	sleeplessness
+valproic-acid	epilepsy
+valproic-acid	seizures
+valproic-acid	seizures
+valpromide	epilepsy
+valrubicin	bladder cancer
+valsartan	hypertension
+valsartan	congestive heart failure
+valsartan	congestive heart failure
+vancomycin	endocarditis
+vandetanib	medullary thyroid cancer (MTC)
+vardenafil	erectile dysfunction
+varenicline	smoking cessation
+vasopressin	abdominal distension
+vecuronium	muscle relaxant
+vedaprofen	pain relief
+vedaprofen	fever
+velpatasvir	hepatitis C
+vemurafenib	melanoma
+venetoclax	chronic lymphocytic leukemia (CLL)
+venlafaxine	depression
+venlafaxine	generalized anxiety disorder (GAD)
+venlafaxine	panic disorders
+venlafaxine	social anxiety disorder
+verapamil	hypertension
+vernakalant	atrial fibrillation (AF)
+verteporfin	macular degeneration
+vesnarinone	congestive heart failure
+vidarabine	virus herpes simplex (HSV)
+vidarabine	varicella-zoster virus (VZV)
+vigabatrin	seizures
+vigabatrin	spasms
+vilanterol	chronic obstructive pulmonary disease (COPD)
+vilazodone	depression
+vildagliptin	diabetes mellitus
+viloxazine	depression
+vinblastine	Hodgkin's lymphoma
+vinblastine	true histiocytic lymphoma (THL)
+vinblastine	mycosis
+vinblastine	small lymphocytic lymphoma (SLL)
+vinblastine	testicular carcinoma
+vinblastine	Kaposi sarcoma
+vinburnine	stroke
+vincristine	acute lymphoblastic leukemia (ALL)
+vindesine	breast cancer
+vindesine	non-small cell lung cancer (NSCLC)
+vindesine	melanoma
+vinflunine	bladder cancer
+vinorelbine	non-small cell lung cancer (NSCLC)
+vinpocetine	stroke
+vinpocetine	senile dementia
+viomycin	tuberculosis
+vismodegib	basal cell carcinoma (BCC)
+vitamin-b12	megaloblastic anemia
+voglibose	diabetes mellitus
+voglibose	hyperglycemia
+vonoprazan	peptic ulcer disease (PUD)
+vorapaxar	myocardial infarction
+vorapaxar	peripheral artery disease (PAD)
+voriconazole	esophageal candidiasis
+voriconazole	aspergillosis
+voriconazole	skin infections
+vorinostat	cutaneous T-cell lymphoma (CTCL)
+vortioxetine	depression
+warfarin	deep vein thrombosis (DVT)
+warfarin	pulmonary embolism (PE)
+warfarin	atrial fibrillation (AF)
+warfarin	myocardial infarction
+wr99210	malaria
+xipamide	edema
+xipamide	hypertension
+xylazine	anesthetic
+xylometazoline	nasal congestion
+xylometazoline	allergic rhinitis
+yohimbine	cardiac arrythmia
+yohimbine	bradycardia
+zafirlukast	asthma
+zalcitabine	human immunodeficiency virus (HIV-1)
+zaltoprofen	fever
+zaltoprofen	pain relief
+zanamivir	influenza A virus infection
+zidovudine	human immunodeficiency virus (HIV-1)
+zidovudine	acquired immunodeficiency syndrome (AIDS)
+zileuton	asthma
+zilpaterol	weight-gain aid
+zinc-undecylenate	tinea pedis
+ziprasidone	schizophrenia
+ziprasidone	bipolar disorder
+zofenopril-calcium	hypertension
+zoledronic-acid	Paget's disease
+zolimidine	peptic ulcer disease (PUD)
+zolimidine	gastroesophageal reflux disease (GERD)
+zolmitriptan	migraine headache
+zonisamide	seizures
+zonisamide	epilepsy
+zotarolimus	coronary artery restenosis
+zotepine	schizophrenia
+zuclopenthixol	schizophrenia
+zuclopenthixol	bipolar disorder

@@ -1,0 +1,61 @@
+moa	p_value	Freq	normalised_freq	score
+dopamine receptor agonist	3.1e-07	8	1	1
+adenosine receptor antagonist	8.92e-07	7	0.875	0.875
+serotonin receptor inverse agonist	0.000722645	2	0.25	0.25
+neurotrophic agent	0.001430487	2	0.25	0.25
+glutamate receptor antagonist	0.001943868	6	0.75	0.75
+serotonin receptor antagonist	0.009118092	6	0.75	0.75
+sigma receptor agonist	0.012205252	2	0.25	0.25
+aromatic L-amino acid decarboxylase inhibitor	0.015673518	1	0.125	0.125
+astrocyte modulating agent	0.015673518	1	0.125	0.125
+cell death inhibitor 	0.015673518	1	0.125	0.125
+chloride channel activator	0.015673518	1	0.125	0.125
+glutamate release inhibitor	0.015673518	1	0.125	0.125
+immunophilin ligand	0.015673518	1	0.125	0.125
+norepinephrine precursor	0.015673518	1	0.125	0.125
+mucolytic agent	0.016960079	2	0.25	0.25
+serotonin receptor agonist	0.027182589	4	0.5	0.5
+dopamine reuptake inhibitor	0.028394645	2	0.25	0.25
+dopamine precursor	0.031103658	1	0.125	0.125
+dopamine receptor partial agonist	0.031103658	1	0.125	0.125
+myeloperoxidase inhibitor	0.031103658	1	0.125	0.125
+norepinephrine transporter inhibitor	0.031103658	1	0.125	0.125
+aryl hydrocarbon receptor antagonist	0.046294164	1	0.125	0.125
+benzodiazepine receptor antagonist	0.046294164	1	0.125	0.125
+calcium channel modulator	0.046294164	1	0.125	0.125
+sigma receptor ligand	0.046294164	1	0.125	0.125
+SIRT activator	0.046294164	1	0.125	0.125
+dopamine receptor antagonist	0.05769063	4	0.5	0.5
+adrenergic receptor agonist	0.059557121	4	0.5	0.5
+acetylcholinesterase inhibitor	0.070656231	2	0.25	0.25
+glutamate inhibitor	0.075970965	1	0.125	0.125
+catechol O methyltransferase inhibitor	0.090464466	1	0.125	0.125
+PPAR receptor agonist	0.098788741	2	0.25	0.25
+Abl kinase inhibitor	0.104732746	1	0.125	0.125
+like (NRF2) activator	0.104732746	1	0.125	0.125
+nuclear factor erythroid derived	0.104732746	1	0.125	0.125
+IKK inhibitor	0.118779272	1	0.125	0.125
+T-type calcium channel blocker	0.118779272	1	0.125	0.125
+antioxidant	0.11899784	2	0.25	0.25
+insulin sensitizer	0.146220666	1	0.125	0.125
+acetylcholine receptor agonist	0.156463173	2	0.25	0.25
+TRPV agonist	0.159622207	1	0.125	0.125
+HMGCR inhibitor	0.172815342	1	0.125	0.125
+sodium channel blocker	0.17876462	2	0.25	0.25
+calcium channel blocker	0.190094174	2	0.25	0.25
+bone resorption inhibitor	0.198589185	1	0.125	0.125
+anticancer agent	0.211176168	1	0.125	0.125
+Bcr-Abl kinase inhibitor	0.211176168	1	0.125	0.125
+chelating agent	0.259595503	1	0.125	0.125
+opioid receptor antagonist	0.337348411	1	0.125	0.125
+monoamine oxidase inhibitor	0.358038217	1	0.125	0.125
+potassium channel blocker	0.358038217	1	0.125	0.125
+phosphodiesterase inhibitor	0.391768043	2	0.25	0.25
+NFkB pathway inhibitor	0.397517188	1	0.125	0.125
+acetylcholine receptor antagonist	0.402860962	2	0.25	0.25
+benzodiazepine receptor agonist	0.407005107	1	0.125	0.125
+glutamate receptor agonist	0.407005107	1	0.125	0.125
+cytochrome P450 inhibitor	0.425539146	1	0.125	0.125
+adrenergic receptor antagonist	0.541800048	2	0.25	0.25
+histamine receptor antagonist	0.723984784	1	0.125	0.125
+bacterial cell wall synthesis inhibitor	0.782903482	1	0.125	0.125
