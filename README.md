@@ -4,9 +4,11 @@ DReAmocracy exploits information such as proposed lists of drugs by previous stu
 ## input files:
 * input name files have a suffix of :
 
-  * *_input_refDis: for ref diseases inputs
+  * *_input_refDis.txt: for ref diseases inputs
 
-  * *_input_refData: for database input files
+  * *_input_refData.txt: for database input files
+
+* whole_database.txt: drug repurposing hub database
 
 ## output file:
 * reference tables with final composite scores for each disease in a .csv format
