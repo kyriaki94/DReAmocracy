@@ -213,8 +213,7 @@ names(resReadFiles)<- c(filelist)
 source("./data/welcome_page_file.R", local=TRUE)
 source("./data/help_page_file.R", local=TRUE)
 
-my_autocomp_list<- read.delim("./all_files/AD_PD_MS_HD_trials_repurposed_joined_FINAL.txt")
-
+my_autocomp_list<- read.delim("./data/AD_PD_MS_HD_trials_repurposed_joined_FINAL.txt")
 
 ui <- fluidPage(
   theme = shinythemes::shinytheme("cosmo"),
